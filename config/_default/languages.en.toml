@@ -3,14 +3,14 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "Congo"
+title = "EAAMO Conference 2024"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
   dateFormat = "2 January 2006"
 
   # mainSections = ["section1", "section2"]
-  # description = "My awesome website"
+  description = "ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization"
 
 [params.author]
   # name = "Your name here"
