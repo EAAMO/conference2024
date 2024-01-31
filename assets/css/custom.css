@@ -1,0 +1,4 @@
+/* Custom font, see https://github.com/jpanther/congo/discussions/227 */
+html {
+    font-family: libre-franklin, sans-serif;
+}
