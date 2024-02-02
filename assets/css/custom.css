@@ -2,3 +2,7 @@
 html {
     font-family: libre-franklin, sans-serif;
 }
+
+.max-logo-height {
+    max-width: 5rem;
+  }
