@@ -8,7 +8,7 @@
         src="{{ $logo.RelPermalink }}"
         width="{{ div $logo.Width 2 }}"
         height="{{ div $logo.Height 2 }}"
-        class="max-logo-height max-w-[10rem] object-scale-down object-left
+        class="max-logo-height max-logo-width object-scale-down object-left
         {{ if $logo_dark }}hidden dark:flex{{ end }}"
         alt="{{ .Site.Title }}"
       />
@@ -17,7 +17,7 @@
           src="{{ $logo_dark.RelPermalink }}"
           width="{{ div $logo_dark.Width 2 }}"
           height="{{ div $logo_dark.Height 2 }}"
-          class="max-logo-height max-w-[10rem] object-scale-down object-left dark:hidden"
+          class="max-logo-height max-logo-width object-scale-down object-left dark:hidden"
           alt="{{ .Site.Title }}"
         />
       {{- end }}
