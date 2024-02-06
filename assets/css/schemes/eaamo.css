@@ -9,7 +9,7 @@ Used https://www.tailwindshades.com/ to create shades of dark blue */
     /* Dark blue  */
     --color-neutral-50:  255, 248, 238; /* HEADING COLOR LIGHT THEME */
     --color-neutral-100: 255, 201, 105;
-    --color-neutral-200: 255, 248, 238;  /* QUOTES COLOR DARK THEME */
+    --color-neutral-200: 240, 107, 82;  /* QUOTES COLOR DARK THEME, HORIZONTAL LINES LIGHT THEME */
     --color-neutral-300: 255, 248, 238; /* TEXT COLOR DARK THEME */
     --color-neutral-400: 255, 248, 238; /* LINKS COLOR DARK THEME */
     --color-neutral-500: 240, 107, 82; /* LISTS BOTH THEMES */
