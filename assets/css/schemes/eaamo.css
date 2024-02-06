@@ -1,32 +1,32 @@
 /* EAAMO color scheme, 
 
-Current: Copied over valaues from Slate color scheme, but just changed background color to cream.
+Started with the Slate color scheme from Congo theme. 
 
-Plan: Use brand colors and uicolors.app/create to define gradients.*/
+Used https://www.tailwindshades.com/ to create shades of dark blue */
 
 :root {
     --color-neutral: 255, 248, 238;
-    /* Gray */
-    --color-neutral-50: 249, 250, 251;
-    --color-neutral-100: 243, 244, 246;
-    --color-neutral-200: 229, 231, 235;
-    --color-neutral-300: 209, 213, 219;
-    --color-neutral-400: 156, 163, 175;
-    --color-neutral-500: 107, 114, 128;
-    --color-neutral-600: 75, 85, 99;
-    --color-neutral-700: 55, 65, 81;
-    --color-neutral-800: 31, 41, 55;
-    --color-neutral-900: 17, 24, 39;
-    --color-neutral-950: 17, 24, 39;
+    /* Dark blue  */
+    --color-neutral-50:  116, 132, 210;
+    --color-neutral-100: 104, 122, 206;
+    --color-neutral-200: 81, 101, 199;
+    --color-neutral-300: 61, 72, 165;
+    --color-neutral-400: 46, 62, 142;
+    --color-neutral-500: 38, 52, 119;
+    --color-neutral-700: 31, 42, 96; /* TEXT */
+    --color-neutral-800: 31, 42, 96; /* HEADING*/
+    --color-neutral-900: 31, 42, 96; /* HEADING */
+    --color-neutral-900: 26, 35, 81;
+    --color-neutral-950: 21, 29, 65;
     /* Slate */
     --color-primary-50: 248, 250, 252;
     --color-primary-100: 241, 245, 249;
     --color-primary-200: 226, 232, 240;
     --color-primary-300: 203, 213, 225;
     --color-primary-400: 148, 163, 184;
-    --color-primary-500: 100, 116, 139;
+    --color-primary-500: 100, 116, 139; /* UNDERSCORE */
     --color-primary-600: 71, 85, 105;
-    --color-primary-700: 51, 65, 85;
+    --color-primary-700: 31, 42, 96; /* LINK */
     --color-primary-800: 30, 41, 59;
     --color-primary-900: 15, 23, 42;
     --color-primary-950: 2, 6, 23;
