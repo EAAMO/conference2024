@@ -15,3 +15,9 @@ html {
     padding-inline-start: 1.25rem;
     padding-inline-end: 0.5rem;
 }
+
+@media (max-width: 640px) {
+  .logo {
+      display: none;
+  }
+}
