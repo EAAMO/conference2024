@@ -12,7 +12,7 @@
   "linkedin": {
     "icon": "linkedin",
     "title": "sharing.linkedin",
-    "url": "https://www.linkedin.com/shareArticle?mini=true&url=%s&title=%s"
+    "url": "https://www.linkedin.com/shareArticle?url=%s&title=%s"
   },
   "mastodon": {
     "icon": "mastodon",
@@ -22,6 +22,6 @@
   "twitter": {
     "icon": "twitter",
     "title": "sharing.twitter",
-    "url": "https://twitter.com/intent/tweet/?url=%s&text=%s"
+    "url": "https://twitter.com/intent/tweet?url=%s&text=%s"
   }
 }

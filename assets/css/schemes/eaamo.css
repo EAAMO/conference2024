@@ -24,8 +24,8 @@ Used https://www.tailwindshades.com/ to create shades of dark blue */
     --color-primary-100: 241, 245, 249;
     --color-primary-200: 226, 232, 240;
     --color-primary-300: 240, 107, 82; /* HIGHLIGHT AND UNDERSCORE LINK IN BOTH THEMES, A WEIRD COMBINATION*/
-    --color-primary-400: 240, 107, 82; /* LINK IN DARK THEME */
-    --color-primary-500: 240, 107, 139;
+    --color-primary-400: 240, 107, 82; /* LINK HOVER IN DARK THEME */
+    --color-primary-500: 240, 107, 82; /* LINK HOVER IN LIGHT THEME */
     --color-primary-600: 240, 107, 82; /* HIGHLIGHT AND UNDERSCORE LINK IN BOTH THEMES, A WEIRD COMBINATION*/
     --color-primary-700: 240, 107, 82; /* LINK IN LIGHT THEME */
     --color-primary-800: 255, 211, 105;
