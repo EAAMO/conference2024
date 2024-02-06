@@ -7,27 +7,28 @@ Used https://www.tailwindshades.com/ to create shades of dark blue */
 :root {
     --color-neutral: 255, 248, 238;
     /* Dark blue  */
-    --color-neutral-50:  116, 132, 210;
-    --color-neutral-100: 104, 122, 206;
-    --color-neutral-200: 81, 101, 199;
-    --color-neutral-300: 61, 72, 165;
-    --color-neutral-400: 46, 62, 142;
-    --color-neutral-500: 38, 52, 119;
-    --color-neutral-700: 31, 42, 96; /* TEXT */
-    --color-neutral-800: 31, 42, 96; /* HEADING*/
-    --color-neutral-900: 31, 42, 96; /* HEADING */
+    --color-neutral-50:  255, 248, 238; /* HEADING COLOR LIGHT THEME */
+    --color-neutral-100: 255, 201, 105;
+    --color-neutral-200: 255, 248, 238;  /* QUOTES COLOR DARK THEME */
+    --color-neutral-300: 255, 248, 238; /* TEXT COLOR DARK THEME */
+    --color-neutral-400: 255, 248, 238; /* LINKS COLOR DARK THEME */
+    --color-neutral-500: 255, 248, 238; /* LEAD TEXT (?) DARK THEME */
+    --color-neutral-600: 133, 205, 211; /* UNDERSCORE LINK DARK THEME */
+    --color-neutral-700: 31, 42, 96; /* TEXT, LINKS, CODE, AND QUOTES COLOR LIGHT THEME */
+    --color-neutral-800: 31, 42, 96; /* HEADING COLOR LIGHT THEME */
+    --color-neutral-900: 31, 42, 96; /* HEADING COLOR LIGHT THEME */
     --color-neutral-900: 26, 35, 81;
     --color-neutral-950: 21, 29, 65;
     /* Slate */
     --color-primary-50: 248, 250, 252;
     --color-primary-100: 241, 245, 249;
     --color-primary-200: 226, 232, 240;
-    --color-primary-300: 203, 213, 225;
-    --color-primary-400: 148, 163, 184;
-    --color-primary-500: 100, 116, 139; /* UNDERSCORE */
-    --color-primary-600: 71, 85, 105;
-    --color-primary-700: 31, 42, 96; /* LINK */
-    --color-primary-800: 30, 41, 59;
+    --color-primary-300: 133, 205, 211; /* HIGHLIGHT AND UNDERSCORE LINK IN BOTH THEMES, A WEIRD COMBINATION*/
+    --color-primary-400: 133, 205, 211; /* LINK IN DARK THEME */
+    --color-primary-500: 240, 107, 139;
+    --color-primary-600: 133, 205, 211; /* HIGHLIGHT AND UNDERSCORE LINK IN BOTH THEMES, A WEIRD COMBINATION*/
+    --color-primary-700: 133, 205, 211; /* LINK IN LIGHT THEME */
+    --color-primary-800: 255, 211, 105;
     --color-primary-900: 15, 23, 42;
     --color-primary-950: 2, 6, 23;
     /* Gray */
