@@ -18,6 +18,9 @@ We solicit submissions in the **research track** and **policy and practice track
 
 The deadline for submissions is **XXXXXXX, 2024**.
 
+<details>
+<summary>Areas of Interest</summary>
+
 ## Areas of Interest
 
 We invite submissions on topics, methodologies, and approaches including, but not limited to:
@@ -35,6 +38,11 @@ We invite submissions on topics, methodologies, and approaches including, but no
 
 Application areas of interest include: civic participation, data economies, discrimination and bias, digital and economic inequalities, economic development, education, environment and climate, food security, healthcare, housing, infrastructure, labor markets, law and policy, low- and under-resourced computing, social and economic mobility, privacy, public service provision, recommender systems, social work, sustainable development, and transportation. Our list of topics is broad, illustrating how a wide variety of perspectives and disciplinary approaches can triangulate progress on focus areas of shared interest.
 
+</details>
+
+<details>
+<summary>Research Track</summary>
+
 ## Research Track
 
 Submissions to the research track can introduce new theory and applications or can be position papers providing a method-driven literature review, synthesizing perspectives, or highlighting future directions. Submissions will fall into one of five focus areas:
@@ -43,6 +51,10 @@ Submissions to the research track can introduce new theory and applications or c
 - **Empirical Studies** including 1) empirical analysis of existing social systems, policies, and mechanisms, and other domains such as empirical industrial organization/health/education/labor; and 2) empirical evaluation of systems that incorporate computational tools such as algorithms, mechanisms, or optimization.
 - **Research Position Papers** that present a novel position, idea, or open a new area of discussion regarding a particular research topic related to the scope of the conference. Submissions will be evaluated based on their novelty and potential to offer new organizing principles for a field, fostering new perspectives and bridges between research and policy/practice.
 - **Theory** including theoretical analysis in algorithm design, fair division and resource allocation, game theory, market and mechanism design, behavioral models, optimization, operations management, computational social choice, social network analysis, economic theory, and theory of machine learning.
+</details>
+
+<details>
+<summary>Policy and Practice Track</summary>
 
 ## Policy and Practice Track
 
@@ -52,6 +64,10 @@ The policy and practice track is dedicated to submissions from researchers and d
 - **Position Papers** that present a novel framework and perspective or open a new area of debate regarding a particular topic related to the scope of the conference. We encourage submissions from all interested individuals including members of affected communities, practitioners, and policy-makers. We welcome submissions discussing potential avenues of work across academia, industry, the public sector, and non-government organizations as well as submissions on lessons learned from efforts to bridge research and practice.
 - **Problem Pitches** in the form of white papers detailing problems that arise in practice impacting underserved and disadvantaged communities. The problems should be ones that benefit from a wider attention within the EAAMO community. Submissions should provide background information on the problem, summary of any existing methods or approaches for tackling the problem, and discussions on how techniques from algorithms, optimization, or mechanism design can contribute to potential solutions. Submissions are also encouraged to provide a discussion of challenges in providing holistic solutions, share insights from collaborations between academics and practitioners, and/or introduce new methods for addressing the problems.
 - **Survey papers** that provide a broad overview of a particular topic of relevance to the conference. The submission should survey relevant work to this area and be presented in a comprehensive and cohesive manner. In addition to research surveys, we also strongly encourage submissions from policymakers and practitioners that survey the state-of-the-art approaches used in a particular application domain and are accessible to both an academic and a non-academic audience.
+</details>
+
+<details>
+<summary>Submission Instructions</summary>
 
 ## Submission Instructions
 
@@ -66,4 +82,4 @@ Submitted papers should include a discussion of ethical impacts and precautions 
 **Archival** submissions must be unpublished and not under review at any other venue. **Non-archival** submissions may be unpublished works or work that has been published in a journal no earlier than January 2022. If the work is already published, please include a citation on EasyChair. **Non-archival** submissions may also be works currently under review at a journal or non-archival conference / workshop, as long as it is not in violation of the corresponding journal / conference / workshop.
 
 We will only accept submissions in the English language. The conference is committed to building multilingual communities, and aims to allow submissions in other languages at future events.
-
+</details>
