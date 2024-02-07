@@ -32,5 +32,5 @@ Please contact sponsorship@md4sg.com with any questions or concerns.
 Please check [ACM Anti-harrassment Policy](https://www.acm.org/about-acm/policy-against-harassment).
 
 ## ACM Privacy Policy
-Please check [ACM Privacy Policy](https://www.acm.org/about-acm/privacy-policy)".
+Please check [ACM Privacy Policy](https://www.acm.org/about-acm/privacy-policy).
 
