@@ -7,26 +7,28 @@ showTableOfContents: false
 
 ## Program Chairs
 
-<figure style="max-width:20%">
-    <img src="/committee_photos/nick_arnosti.jpeg"
-         alt="Nick Arnosti">
-    <figcaption>Nick Arnosti</figcaption>
-</figure>
-<figure style="max-width:20%">
-    <img src="/committee_photos/caterina_calsamigli.png"
-         alt="Caterina Calsamiglia">
-    <figcaption>Caterina Calsamiglia</figcaption>
-</figure>
-<figure style="max-width:20%">
-    <img src="/committee_photos/salvador_ruizcorrea.jpeg"
-         alt="Salvador Ruiz-Correa">
-    <figcaption>Salvador Ruiz-Correa</figcaption>
-</figure>
-<figure style="max-width:20%">
-    <img src="/committee_photos/john_dickerson.jpeg"
-         alt="John P. Dickerson">
-    <figcaption>John P. Dickerson</figcaption>
-</figure>
+<div style="display:inline-block">
+    <figure style="max-width:20%">
+        <img src="/committee_photos/nick_arnosti.jpeg"
+            alt="Nick Arnosti">
+        <figcaption style="text-align:center" href="https://nickarnosti.com/">Nick Arnosti, University of Minnesota</figcaption>
+    </figure>
+    <figure style="max-width:20%">
+        <img src="/committee_photos/caterina_calsamigli.png"
+            alt="Caterina Calsamiglia">
+        <figcaption style="text-align:center" href="https://sites.google.com/site/caterinacalsamiglia/">Caterina Calsamiglia, IPEG</figcaption>
+    </figure>
+    <figure style="max-width:20%">
+        <img src="/committee_photos/salvador_ruizcorrea.jpeg"
+            alt="Salvador Ruiz-Correa">
+        <figcaption style="text-align:center" href="https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722">Salvador Ruiz-Correa, IPICYT</figcaption>
+    </figure>
+    <figure style="max-width:20%">
+        <img src="/committee_photos/john_dickerson.jpeg"
+            alt="John P. Dickerson">
+        <figcaption style="text-align:center" href="https://jpdickerson.com/">John P. Dickerson, Arthur </figcaption>
+    </figure>
+</div>
 
 - [Nick Arnosti](https://nickarnosti.com/), University of Minnesota
 - [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/), IPEG
