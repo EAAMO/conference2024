@@ -6,6 +6,17 @@ showTableOfContents: false
 ---
 
 ## Program Chairs
+
+<figure style="max-width:20%">
+    <img src="/assets/img/committee_photos/nick_arnosti.jpeg"
+         alt="Nick Arnosti">
+    <figcaption>Nick Arnosti</figcaption>
+</figure>
+
+<div style="max-width:20%">
+![Nick Arnosti](/assets/img/committee_photos/nick_arnosti.jpeg)
+</div>
+
 - [Nick Arnosti](https://nickarnosti.com/), University of Minnesota
 - [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/), IPEG
 - [Salvador Ruiz-Correa](https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722), IPICYT
