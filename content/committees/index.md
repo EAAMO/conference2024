@@ -30,11 +30,6 @@ showTableOfContents: false
     </figure>
 </div>
 
-- [Nick Arnosti](https://nickarnosti.com/), University of Minnesota
-- [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/), IPEG
-- [Salvador Ruiz-Correa](https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722), IPICYT
-- [John P. Dickerson](https://jpdickerson.com/), Arthur 
-
 <!-- ## General Chairs
 - [Name Surname](), University
 - [Name Surname](), University -->
