@@ -8,13 +8,13 @@ showTableOfContents: false
 ## Program Chairs
 
 <figure style="max-width:20%">
-    <img src="/assets/img/committee_photos/nick_arnosti.jpeg"
+    <img src="../../assets/img/committee_photos/nick_arnosti.jpeg"
          alt="Nick Arnosti">
     <figcaption>Nick Arnosti</figcaption>
 </figure>
 
 <div style="max-width:20%">
-![Nick Arnosti](/assets/img/committee_photos/nick_arnosti.jpeg)
+![Nick Arnosti](../../assets/img/committee_photos/nick_arnosti.jpeg)
 </div>
 
 - [Nick Arnosti](https://nickarnosti.com/), University of Minnesota
