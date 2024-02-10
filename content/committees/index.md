@@ -8,22 +8,22 @@ showTableOfContents: false
 ## Program Chairs
 
 <div style="justify-content:space-between">
-    <figure style="max-width:25%;display:inline-block">
+    <figure style="max-width:25%;display:inline-block;padding-right:10px;padding-left:10px;">
         <img src="/committee_photos/nick_arnosti.jpeg"
             alt="Nick Arnosti">
         <figcaption style="text-align:center"> <a href="https://nickarnosti.com/">Nick Arnosti</a>, University of Minnesota</figcaption>
     </figure>
-    <figure style="max-width:25%;display:inline-block">
+    <figure style="max-width:25%;display:inline-block;padding-right:10px;padding-left:10px;">
         <img src="/committee_photos/caterina_calsamigli.png"
             alt="Caterina Calsamiglia">
         <figcaption style="text-align:center"> <a href="https://sites.google.com/site/caterinacalsamiglia/">Caterina Calsamiglia</a>, IPEG</figcaption>
     </figure>
-    <figure style="max-width:25%;display:inline-block">
+    <figure style="max-width:25%;display:inline-block;padding-right:10px;padding-left:10px;">
         <img src="/committee_photos/salvador_ruizcorrea.jpeg"
             alt="Salvador Ruiz-Correa">
         <figcaption style="text-align:center"> <a href="https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722">Salvador Ruiz-Correa</a>, IPICYT</figcaption>
     </figure>
-    <figure style="max-width:25%;display:inline-block">
+    <figure style="max-width:25%;display:inline-block;padding-right:10px;padding-left:10px;">
         <img src="/committee_photos/john_dickerson.jpeg"
             alt="John P. Dickerson">
         <figcaption style="text-align:center"> <a href="https://jpdickerson.com/">John P. Dickerson</a>, Arthur </figcaption>
