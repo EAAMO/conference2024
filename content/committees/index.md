@@ -11,22 +11,22 @@ showTableOfContents: false
     <figure style="max-width:20%;display:inline-block">
         <img src="/committee_photos/nick_arnosti.jpeg"
             alt="Nick Arnosti">
-        <figcaption style="text-align:center" href="https://nickarnosti.com/">Nick Arnosti, University of Minnesota</figcaption>
+        <figcaption style="text-align:center"> <a href="https://nickarnosti.com/">Nick Arnosti</a>, University of Minnesota</figcaption>
     </figure>
     <figure style="max-width:20%;display:inline-block">
         <img src="/committee_photos/caterina_calsamigli.png"
             alt="Caterina Calsamiglia">
-        <figcaption style="text-align:center" href="https://sites.google.com/site/caterinacalsamiglia/">Caterina Calsamiglia, IPEG</figcaption>
+        <figcaption style="text-align:center"> <a href="https://sites.google.com/site/caterinacalsamiglia/">Caterina Calsamiglia</a>, IPEG</figcaption>
     </figure>
     <figure style="max-width:20%;display:inline-block">
         <img src="/committee_photos/salvador_ruizcorrea.jpeg"
             alt="Salvador Ruiz-Correa">
-        <figcaption style="text-align:center" href="https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722">Salvador Ruiz-Correa, IPICYT</figcaption>
+        <figcaption style="text-align:center"> <a href="https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722">Salvador Ruiz-Correa</a>, IPICYT</figcaption>
     </figure>
     <figure style="max-width:20%;display:inline-block">
         <img src="/committee_photos/john_dickerson.jpeg"
             alt="John P. Dickerson">
-        <figcaption style="text-align:center" href="https://jpdickerson.com/">John P. Dickerson, Arthur </figcaption>
+        <figcaption style="text-align:center"> <a href="https://jpdickerson.com/">John P. Dickerson</a>, Arthur </figcaption>
     </figure>
 </div>
 
