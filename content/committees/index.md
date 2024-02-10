@@ -12,10 +12,21 @@ showTableOfContents: false
          alt="Nick Arnosti">
     <figcaption>Nick Arnosti</figcaption>
 </figure>
-
-<div style="max-width:20%">
-![Nick Arnosti](/committee_photos/nick_arnosti.jpeg)
-</div>
+<figure style="max-width:20%">
+    <img src="/committee_photos/caterina_calsamigli.png"
+         alt="Caterina Calsamiglia">
+    <figcaption>Caterina Calsamiglia</figcaption>
+</figure>
+<figure style="max-width:20%">
+    <img src="/committee_photos/salvador_ruizcorrea.jpeg"
+         alt="Salvador Ruiz-Correa">
+    <figcaption>Salvador Ruiz-Correa</figcaption>
+</figure>
+<figure style="max-width:20%">
+    <img src="/committee_photos/john_dickerson.jpeg"
+         alt="John P. Dickerson">
+    <figcaption>John P. Dickerson</figcaption>
+</figure>
 
 - [Nick Arnosti](https://nickarnosti.com/), University of Minnesota
 - [Caterina Calsamiglia](https://sites.google.com/site/caterinacalsamiglia/), IPEG
