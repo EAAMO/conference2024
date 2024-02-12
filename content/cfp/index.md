@@ -2,6 +2,7 @@
 title: "Call for Participation"
 date: 2024-01-31
 draft: false
+share: true
 ---
 
 The fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization ([EAAMO '24](https://eaamo.org)) will take place on XXXXXXX at XXXXXXX in XXXXXXX.
