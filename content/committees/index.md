@@ -8,46 +8,35 @@ layout: "simple"
 
 ## Program Chairs
 
-<div style="justify-content:space-between">
-    <figure style="max-width:15%;display:inline-block;padding-right:10px;padding-left:10px;vertical-align:top;">
-        <img src="profile_photos/nick_arnosti.jpeg"
-            style="border-radius:20px"
-            alt="Nick Arnosti">
-        <figcaption style="text-align:center"> <a href="https://nickarnosti.com/">Nick Arnosti</a>, University of Minnesota</figcaption>
-    </figure>
-    <figure style="max-width:15%;display:inline-block;padding-right:10px;padding-left:10px;vertical-align:top;">
-        <img src="profile_photos/caterina_calsamigli.png"
-            style="border-radius:20px"
-            alt="Caterina Calsamiglia">
-        <figcaption style="text-align:center"> <a href="https://sites.google.com/site/caterinacalsamiglia/">Caterina Calsamiglia</a>, IPEG</figcaption>
-    </figure>
-    <figure style="max-width:15%;display:inline-block;padding-right:10px;padding-left:10px;vertical-align:top;">
-        <img src="profile_photos/salvador_ruizcorrea.jpeg"
-            style="border-radius:20px"
-            alt="Salvador Ruiz-Correa">
-        <figcaption style="text-align:center"> <a href="https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722">Salvador Ruiz-Correa</a>, IPICYT</figcaption>
-    </figure>
-    <figure style="max-width:15%;display:inline-block;padding-right:10px;padding-left:10px;vertical-align:top;">
-        <img src="profile_photos/john_dickerson.jpeg"
-            style="border-radius:20px"
-            alt="John P. Dickerson">
-        <figcaption style="text-align:center"> <a href="https://jpdickerson.com/">John P. Dickerson</a>, Arthur </figcaption>
-    </figure>
-</div>
+{{< chair_image src="profile_photos/nick_arnosti.jpeg" name="Nick Arnosti" affiliation="University of Minnesota" link="https://nickarnosti.com/" >}}
 
-<!-- ## General Chairs
-- [Name Surname](), University
-- [Name Surname](), University -->
+{{< chair_image src="profile_photos/caterina_calsamigli.png" name="Caterina Calsamiglia" affiliation="IPEG" link="https://sites.google.com/site/caterinacalsamiglia/" >}}
+
+{{< chair_image src="profile_photos/salvador_ruizcorrea.jpeg" name="Salvador Ruiz-Correa" affiliation="IPICYT" link="https://scholar.google.com/citations?user=LJNs7nwAAAAJ&hl=en&inst=7289110936595769722" >}}
+
+{{< chair_image src="profile_photos/john_dickerson.jpeg" name="John P. Dickerson" affiliation="Arthur" link="https://jpdickerson.com/" >}}
+
+<!-- {{< twitter user="ACMEAAMO" id="1757795805254099256" >}} -->
 
 ## Executive Committee
-- [Rediet Abebe](https://www.cs.cornell.edu/~red/), Harvard Society of Fellows
-- [Kira Goldner](https://www.kiragoldner.com/), Boston University
-- [Maximilian Kasy](https://maxkasy.github.io/home/), University of Oxford
-- [Jon Kleinberg](https://www.cs.cornell.edu/home/kleinber/), Cornell University
-- [Illenin Kondo](https://www.illenin.com/), Federal Reserve Bank of Minneapolis
-- [Sera Linardi](http://www.linardi.gspia.pitt.edu/), University of Pittsburgh
-- [Irene Lo](https://sites.google.com/view/irene-lo), Stanford University
-- [George Obaido](https://www.georgeobaido.com/), University of California Berkeley
-- [Araba Sey](https://tascha.uw.edu/people/araba-sey/), University of Washington Information School
-- [Ana-Andreea Stoica](http://www.columbia.edu/~as5001/), Max Planck Institute for Intelligent Systems
-- [Bryan Wilder](https://bryanwilder.github.io/), Carnegie Mellon University
+{{< chair_image src="profile_photos/rediet_abebe.jpg" name="Rediet Abebe" affiliation="Harvard Society of Fellows" link="https://www.cs.cornell.edu/~red/" >}}
+
+{{< chair_image src="profile_photos/kira_goldner.jpg" name="Kira Goldner" affiliation="Boston University" link="https://www.kiragoldner.com/" >}}
+
+{{< chair_image src="profile_photos/maximilian_kasy.jpg" name="Maximilian Kasy" affiliation="University of Oxford" link="https://maxkasy.github.io/home/" >}}
+
+{{< chair_image src="profile_photos/jon_kleinberg.jpg" name="Jon Kleinberg" affiliation="Cornell University" link="https://www.cs.cornell.edu/home/kleinber/" >}}
+
+{{< chair_image src="profile_photos/illenin_kondo.jpg" name="Illenin Kondo" affiliation="Federal Reserve Bank of Minneapolis" link="https://www.illenin.com/" >}}
+
+{{< chair_image src="profile_photos/sera_linardi.jpg" name="Sera Linardi" affiliation="University of Pittsburgh" link="http://www.linardi.gspia.pitt.edu/" >}}
+
+{{< chair_image src="profile_photos/irene_lo.jpg" name="Irene Lo" affiliation="Stanford University" link="https://sites.google.com/view/irene-lo" >}}
+
+{{< chair_image src="profile_photos/george_obaido.jpg" name="George Obaido" affiliation="University of California Berkeley" link="https://www.georgeobaido.com/" >}}
+
+{{< chair_image src="profile_photos/araba_sey.jpg" name="Araba Sey" affiliation="University of Washington Information School" link="https://tascha.uw.edu/people/araba-sey/" >}}
+
+{{< chair_image src="profile_photos/ana_stoica.jpg" name="Ana-Andreea Stoica" affiliation="Max Planck Institute for Intelligent Systems" link="http://www.columbia.edu/~as5001/" >}}
+
+{{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
