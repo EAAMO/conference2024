@@ -1,0 +1,17 @@
+---
+title: "Pathways"
+date: 2024-02-01
+draft: false
+description: "The conference has multiple pathways to cater for many different types of submissions."
+summary: "EAAMO accepts many different types of submissions, which are split into six different pathways. Find out which pathway is most suited to your paper."
+showTableOfContents: false
+slug: "pathways"
+---
+
+Submissions can introduce new theories and applications or can be position papers providing a method-driven literature review, synthesizing perspectives, or highlighting future directions. We welcome both contributions that propose new general methodologies as well as those which emphasize applied work, policy issues, or practical problems. Submissions will be reviewed in one of six focus areas:
+- **AI and Machine Learning**, including AI for social impact, bias and fairness considerations in statistical reasoning, learning and decision making in economic context, optimization, fair division and allocation in resource-constrained settings, interactions in multi-agent and socio-technical systems, causal analysis of algorithmic interventions and their long-term effects, social choice theory, and work at the intersection with privacy and security.
+- **Applied and Quantitative Modeling**, including proposing and analyzing applied and structural models for novel practical problems in data science, computational social science, industrial organization, market and mechanism design, micro- and macroeconomics, and operations management (e.g., supply chain, service operations).
+- **Datasets and Benchmarks** involving submissions of novel datasets and benchmarks collected and documented to foster new research in different application domains, creating new standards for data collection, transparency, and accountability, and fostering interdisciplinary collaborations. The submission should include the dataset, which will be uploaded as a supplementary file, and metadata information. The dataset may also be uploaded to external data sharing services, and the conference will provide an additional option for a data portal upon acceptance of the submission. The submission should be accompanied by a document detailing the application domain, potential for use of the data, as well as any known issues, limitations, and ethical considerations for the collection, curation, access, and use. Authors are encouraged to consider questions presented in the [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) recommendations.
+- **Empirical Studies** including 1) empirical analysis of existing social systems, policies, and mechanisms, and other domains such as empirical industrial organization/health/education/labor; and 2) empirical evaluation of systems that incorporate computational tools such as algorithms, mechanisms, or optimization.
+- **Position Papers and Problem Pitches** that present a novel position, idea, or open a new area of discussion regarding a particular research topic related to the scope of the conference. Submissions will be evaluated based on their novelty and potential to offer new organizing principles for a field, fostering new perspectives and bridges between research and policy/practice.
+- **Theory** including theoretical analysis in algorithm design, fair division and resource allocation, game theory, market and mechanism design, behavioral models, optimization, operations management, computational social choice, social network analysis, economic theory, and theory of machine learning.
