@@ -1,14 +1,14 @@
 ---
-title: "Pathways"
-date: 2024-02-01
+title: "Tracks"
+date: 2024-02-02
 draft: false
-description: "The conference has multiple pathways to cater for many different types of submissions."
-summary: "EAAMO accepts many different types of submissions, which are split into six different pathways. Find out which pathway is most suited to your paper."
+description: "The conference has multiple tracks to cater for many different types of submissions."
+summary: "EAAMO accepts many different types of submissions, which are split into six different tracks. Find out which track is most suited to your paper."
 showTableOfContents: false
-slug: "pathways"
+slug: "tracks"
 ---
 
-Submissions can introduce new theories and applications or can be position papers providing a method-driven literature review, synthesizing perspectives, or highlighting future directions. We welcome both contributions that propose new general methodologies as well as those which emphasize applied work, policy issues, or practical problems. Submissions will be reviewed in one of six focus areas:
+Submissions can introduce new theories and applications or can be position papers providing a method-driven literature review, synthesizing perspectives, or highlighting future directions. We welcome both contributions that propose new general methodologies as well as those which emphasize applied work, policy issues, or practical problems. Submissions will be reviewed in one of six tracks:
 - **AI and Machine Learning**, including AI for social impact, bias and fairness considerations in statistical reasoning, learning and decision making in economic context, optimization, fair division and allocation in resource-constrained settings, interactions in multi-agent and socio-technical systems, causal analysis of algorithmic interventions and their long-term effects, social choice theory, and work at the intersection with privacy and security.
 - **Applied and Quantitative Modeling**, including proposing and analyzing applied and structural models for novel practical problems in data science, computational social science, industrial organization, market and mechanism design, micro- and macroeconomics, and operations management (e.g., supply chain, service operations).
 - **Datasets and Benchmarks** involving submissions of novel datasets and benchmarks collected and documented to foster new research in different application domains, creating new standards for data collection, transparency, and accountability, and fostering interdisciplinary collaborations. The submission should include the dataset, which will be uploaded as a supplementary file, and metadata information. The dataset may also be uploaded to external data sharing services, and the conference will provide an additional option for a data portal upon acceptance of the submission. The submission should be accompanied by a document detailing the application domain, potential for use of the data, as well as any known issues, limitations, and ethical considerations for the collection, curation, access, and use. Authors are encouraged to consider questions presented in the [Datasheets for Datasets](https://arxiv.org/pdf/1803.09010.pdf) recommendations.

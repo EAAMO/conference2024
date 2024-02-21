@@ -33,4 +33,7 @@ For research that involves human participants or that uses sensitive data, it is
 
 ## Language
 We will only accept submissions in the English language. The conference is committed to building multilingual communities, and aims to allow submissions in other languages at future events.
-Financial support: we aim to increase accessibility by offering financial assistance to attend the conference. The application for this program will be available soon at conference.eaamo.org.
+
+
+## Financial support
+We aim to increase accessibility by offering financial assistance to attend the conference. The application for this program will be available soon.

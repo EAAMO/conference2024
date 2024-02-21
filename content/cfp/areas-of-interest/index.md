@@ -1,6 +1,6 @@
 ---
 title: "Areas of Interest"
-date: 2024-02-01
+date: 2024-02-03
 draft: false
 description: "Which topics does the EAAMO conference typically showcase?"
 summary: "Unsure if your research topic is a good fit for EAAMO? Find out about our areas of interest."
