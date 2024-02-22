@@ -37,6 +37,10 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
+   name = "[Past Conferences](https://conference2023.eaamo.org)"
+   weight = 10
+
+[[footer]]
    name = "Policies"
    pageRef = "policies"
-   weight = 10
+   weight = 20
