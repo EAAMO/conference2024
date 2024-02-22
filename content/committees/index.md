@@ -23,8 +23,6 @@ layout: "simple"
 
 {{< chair_image src="profile_photos/kira_goldner.jpg" name="Kira Goldner" affiliation="Boston University" link="https://www.kiragoldner.com/" >}}
 
-{{< chair_image src="profile_photos/maximilian_kasy.jpg" name="Maximilian Kasy" affiliation="University of Oxford" link="https://maxkasy.github.io/home/" >}}
-
 {{< chair_image src="profile_photos/jon_kleinberg.jpg" name="Jon Kleinberg" affiliation="Cornell University" link="https://www.cs.cornell.edu/home/kleinber/" >}}
 
 {{< chair_image src="profile_photos/illenin_kondo.jpg" name="Illenin Kondo" affiliation="Federal Reserve Bank of Minneapolis" link="https://www.illenin.com/" >}}
