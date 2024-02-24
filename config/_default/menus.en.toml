@@ -36,9 +36,15 @@
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
+# [[footer]]
+#   name = "[Past Conferences](https://conference2023.eaamo.org)"
+#   weight = 10
+
 [[footer]]
-   name = "[Past Conferences](https://conference2023.eaamo.org)"
-   weight = 10
+   name = "Past Conferences"
+   pageRef = "past_conferences"
+   weight = 20
+
 
 [[footer]]
    name = "Policies"
