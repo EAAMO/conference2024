@@ -2,7 +2,7 @@
 description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization"
 ---
 
-The fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'24) will be held from **October 30 to November 1, 2024** in San Luis Potosí, Mexico.
+The fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO'24) will be held from **29 October - 31 October 2024** in San Luis Potosí, Mexico.
 
 We invite researchers and practitioners to submit their papers by **April 15, 2024 (AoE)**.
 
