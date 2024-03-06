@@ -38,3 +38,7 @@ layout: "simple"
 {{< chair_image src="profile_photos/ana_stoica.jpg" name="Ana-Andreea Stoica" affiliation="Max Planck Institute for Intelligent Systems" link="http://www.columbia.edu/~as5001/" >}}
 
 {{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
+
+## Doctoral Consortium
+
+{{< chair_image src="profile_photos/juba_ziani.png" name="Juba Ziani" affiliation="Georgia Institute of Technology" link="http://juba-ziani.com/" >}}
