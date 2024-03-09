@@ -7,7 +7,6 @@ layout: "simple"
 ---
 
 ## Program Chairs
-
 {{< chair_image src="profile_photos/nick_arnosti.jpeg" name="Nick Arnosti" affiliation="University of Minnesota" link="https://nickarnosti.com/" >}}
 
 {{< chair_image src="profile_photos/caterina_calsamigli.png" name="Caterina Calsamiglia" affiliation="IPEG" link="https://sites.google.com/site/caterinacalsamiglia/" >}}
@@ -40,5 +39,4 @@ layout: "simple"
 {{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University" link="https://bryanwilder.github.io/" >}}
 
 ## Doctoral Consortium
-
 {{< chair_image src="profile_photos/juba_ziani.png" name="Juba Ziani" affiliation="Georgia Institute of Technology" link="http://juba-ziani.com/" >}}
