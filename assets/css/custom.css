@@ -3,6 +3,10 @@ html {
     font-family: libre-franklin, sans-serif;
 }
 
+hr {
+  border-style: solid;
+}
+
 .max-logo-height {
     max-width: 5rem;
   }
