@@ -3,8 +3,8 @@ html {
     font-family: libre-franklin, sans-serif;
 }
 
-hr {
-  border-style: solid;
+.fline {
+  border-color: var(--tw-prose-hr)
 }
 
 .max-logo-height {
@@ -16,11 +16,15 @@ hr {
   }
 
 .chairimg {
-  max-width:15%;
+  max-width:20%;
   display:inline-block;
   padding-right:10px;
   padding-left:10px;
   vertical-align:top;
+}
+
+.chairimglink:link {
+  text-decoration: none;
 }
 
 @media (max-width: 1024px) {
