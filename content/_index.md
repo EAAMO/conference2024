@@ -6,7 +6,7 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 </p>
 
 <p style="font-size: larger">
-    We invite researchers and practitioners to submit their papers by <b>April 15, 2024 (AoE)</b>.
+    We invite researchers and practitioners to submit their papers by <b>April 17, 2024 (AoE)</b>.
 </p>
 
 {{< figure
