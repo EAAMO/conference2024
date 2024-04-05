@@ -19,7 +19,7 @@ The event will highlight work along the research-to-practice pipeline to improve
 
 ## Important Dates
 - Paper Submission Deadline: **April 17, 2024 (AoE)**
-- Paper Submission Page: Coming soon
+- Paper Submission Page: [https://eaamo24.hotcrp.com/u/0/](https://eaamo24.hotcrp.com/u/0/)
 - Submission Notification: 18 July 2024
 - Event Dates: 29 October - 31 October 2024
 
