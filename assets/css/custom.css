@@ -32,3 +32,17 @@ html {
     max-width:50%;
   }
 }
+
+.prose :where(figure):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  margin-top: 0em;
+  margin-bottom: 0em;
+}
+
+.prose :where(h2):not(:where([class~=not-prose],[class~=not-prose] *)) {
+  color: var(--tw-prose-headings);
+  font-weight: 700;
+  font-size: 1.5em;
+  margin-top: 2em;
+  margin-bottom: 0.25em;
+  line-height: 1.3333333;
+}
