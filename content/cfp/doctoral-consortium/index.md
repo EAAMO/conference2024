@@ -15,7 +15,7 @@ While primarily targeted at PhD students, the doctoral consortium is open as wel
 ### Application
 To apply for the doctoral consortium, fill out [this form](https://forms.gle/KwZ1MCWTT5MX6LLs7).
 
-Applications for the doctoral consortium and for travel funding must be received by **April 19, 2024**.
+Applications for the doctoral consortium and for travel funding must be received by **May 3rd, 2024**.
 
 Decisions on the applications will be made by end of May 2024.
 
