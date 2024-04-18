@@ -40,3 +40,5 @@ layout: "simple"
 
 ## Doctoral Consortium
 {{< chair_image src="profile_photos/juba_ziani.png" name="Juba Ziani" affiliation="Georgia Institute of Technology" link="http://juba-ziani.com/" >}}
+
+{{< chair_image src="profile_photos/jessie-finocchiaro.webp" name="Jessie Finocchiaro" affiliation="Harvard University" link="http://juba-ziani.com/" >}}
