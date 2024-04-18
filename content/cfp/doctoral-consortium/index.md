@@ -19,6 +19,6 @@ Applications for the doctoral consortium and for travel funding must be received
 
 Decisions on the applications will be made by end of May 2024.
 
-Please contact [Juba Ziani](http://juba-ziani.com/), the doctoral consortium chair, if you have any questions. 
+Please contact [Juba Ziani](http://juba-ziani.com/) or [Jessie Finocchiaro](https://www.jessiefin.com/), the doctoral consortium chairs, if you have any questions. 
  
 
