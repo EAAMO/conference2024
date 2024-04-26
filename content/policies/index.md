@@ -8,7 +8,7 @@ draft: false
 
 The goal of EAAMO’24 is to highlight multi-institutional, collaborative work that draws on multiple disciplines and engages historically underserved and disadvantaged communities to improve access to opportunity for such communities. Toward this goal, it is critical that all participants at the conference respect, understand, and value the importance of contributions from a diverse group of participants, and especially those from historically underserved and disadvantaged communities. 
 
-Organizers of EAAMO’24 ask that all conference participants adhere to the [ACM Policy Against Harassment and Discrimination](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment), as well as the [EAAMO Code of Conduct](https://www.eaamo.org/policies). Any violations of either code of conduct can be reported via the ACM or EAAMO reporting procedures, or submitted via email to gc24@eaamo.com.
+Organizers of EAAMO’24 ask that all conference participants adhere to the [ACM Policy Against Harassment and Discrimination](https://www.acm.org/special-interest-groups/volunteer-resources/officers-manual/policy-against-discrimination-and-harassment), as well as the [EAAMO Code of Conduct](https://www.eaamo.org/policies). Any violations of either code of conduct can be reported via the ACM or EAAMO reporting procedures, or submitted via email to ec@eaamo.org.
 
 ## Sponsorship Policy
 
@@ -26,7 +26,7 @@ We follow several guidelines and policies related to fundraising activities:
 * Sponsors may be acknowledged on the Initiative and Conference website as well as other materials. 
 * EAAMO reserve the right to decline or return any funding should the sponsorship committee decide that the funding source is misaligned with the mission of the initiative and conference. 
 
-Please contact as5001@columbia.edu with any questions or concerns. 
+Please contact ec@eaamo.org with any questions or concerns. 
 
 ## ACM Anti-harrassment Policy
 Please check [ACM Anti-harrassment Policy](https://www.acm.org/about-acm/policy-against-harassment).
