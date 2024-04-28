@@ -12,6 +12,12 @@ EAAMO 2024 will feature a doctoral consortium for students who have interests re
 
 While primarily targeted at PhD students, the doctoral consortium is open as well to undergraduate and masters students. Content will be primarily designed for students in computer science, operations research, and economics programs, but students from all fields are welcome to apply.
 
+We would like to point attention to two new things:
+ - We will have a virtual option if you can’t come to Mexico in person. Please don’t hesitate to sign up even if you don’t think you will be able to make it in person.
+ - There will be talks and mentorships about *non-academic* routes after a Ph.D. for those of you that may be interested, featuring:
+    - *Karoline Pershell, formerly faculty at Rice, now COO of SRT Robotics Lab, AAAS SciTech Policy Fellow, and former Executive Director of Association for Women in Mathematics; and
+    - *Daniel Berger, formerly faculty at University of Essex, and is now the lead data scientist at AFL-CIO, which is made up of 60 unions that represent 12 million unionized workers in the US."
+
 ### Application
 To apply for the doctoral consortium, fill out [this form](https://forms.gle/KwZ1MCWTT5MX6LLs7).
 
