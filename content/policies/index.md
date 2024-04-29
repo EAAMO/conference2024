@@ -24,7 +24,7 @@ We follow several guidelines and policies related to fundraising activities:
 - EAAMO-sponsored projects will be independent from sponsor input.
 - Sponsorship for the ACM EAAMO conference should be unrestricted within the conference's purview. Sponsors wishing to fund specific projects within the EAAMO organization can contact the leadership to discuss this case-by-case.
 - EAAMO will acknowledge sponsors supporting the broader initiative and conference on the website and other relevant materials.
-- EAAMO reserves the right to decline any funding if the sponsorship committee decides that the funding source is misaligned with the mission of the initiative and conference. 
+- EAAMO reserves the right to decline or return any funding if the sponsorship committee decides that the funding source is misaligned with the mission of the initiative and conference. 
 
 Please contact ec@eaamo.org with any questions or concerns. 
 
