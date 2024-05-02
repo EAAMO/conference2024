@@ -42,3 +42,23 @@ layout: "simple"
 {{< chair_image src="profile_photos/juba_ziani.png" name="Juba Ziani" affiliation="Georgia Institute of Technology" link="http://juba-ziani.com/" >}}
 
 {{< chair_image src="profile_photos/jessie-finocchiaro.webp" name="Jessie Finocchiaro" affiliation="Harvard University" link="https://www.jessiefin.com/" >}}
+
+## Area Chairs
+
+- Alexander Teytelboym, Oxford University
+- Brian Brubach, Wellesley College
+- Christopher Rauh, Cambridge University
+- Elisabeth Paulson, Harvard University
+- Hau Chan, University of Nebraska-Lincoln
+- James Wright, University of Alberta
+- Joan Monras, Barcelona School of Economics
+- Krishna Dasaratha, Boston University
+- L. Elisa Celis, Yale University
+- Merce Crosas, Barcelona School of Supercomputing
+- Nicholas Mattei, Tulane University
+- Nikhil Garg, Cornell Tech
+- Renzhe Yu, Columbia University
+- Sam Taggart, Oberlin College
+- Vahideh Manshadi, Yale University
+- Yoan Hermstrwer, University of Zurich
+- Saiph Savage, Northeastern University
