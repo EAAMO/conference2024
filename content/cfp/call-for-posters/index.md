@@ -1,5 +1,5 @@
 ---
-title: "Call for Posters"
+title: "Call for Posters (English Version)"
 date: 2024-06-27
 draft: false
 description: "Interested in submitting a poster for EAAMO '24? Find out more by clicking the link."

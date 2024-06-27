@@ -1,5 +1,5 @@
 ---
-title: "Convocatoria Posters (Call for Posters in Spanish)"
+title: "Convocatoria Posters (Versión en Español)"
 date: 2024-06-27
 draft: false
 description: "¿Está interesado en enviar un póster para EAAMO '24? Obtenga más información haciendo clic en el enlace."
