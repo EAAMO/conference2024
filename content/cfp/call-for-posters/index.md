@@ -1,36 +1,37 @@
 ---
-title: "Call for Posters (Spanish)"
+title: "Call for Posters"
 date: 2024-06-27
 draft: false
 description: "Interested in submitting a poster for EAAMO '24? Find out more by clicking the link."
 summary: "Interested in submitting a poster for EAAMO '24? Find out more by clicking the link."
 layout: "simple"
-slug: "call-for-posters-spanish"
+slug: "call-for-posters"
 ---
-La cuarta Conferencia ACM sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO '24) se llevará a cabo del 29 al 31 de octubre de 2024 en la Universidad Autónoma de San Luis Potosí ([UASLP](https://www.uaslp.mx/)). El evento destacará el trabajo a lo largo del pipeline de investigación a práctica para mejorar el acceso a oportunidades para comunidades históricamente marginadas y desfavorecidas, y mitigar los daños relacionados con resultados inequitativos e inseguros. En particular, buscamos contribuciones de diferentes campos que ofrezcan perspectivas sobre el diseño interseccional e impactos de algoritmos, optimización y diseño de mecanismos con fundamentos en las ciencias sociales y estudios humanísticos. Las contribuciones incluyen investigaciones, encuestas, documentos de posición y contribuciones impulsadas por problemas y prácticas, por académicos y profesionales de diferentes disciplinas o sectores.
+The fourth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ‘24) will take place October 29-31, 2024, in San Luis Potosi, Mexico at the Autonomous University of San Luis Potosí ([UASLP](https://www.uaslp.mx/)). The event will highlight work along the research-to-practice pipeline to improve access to opportunity for historically underserved and disadvantaged communities and mitigate harms concerning inequitable and unsafe outcomes. In particular, we seek contributions from different fields that offer insights into the intersectional design and impacts of algorithms, optimization, and mechanism design with a grounding in the social sciences and humanistic studies. Submissions include research, surveys, position papers, and problem- and practice-driven submissions by academics and practitioners from different disciplines or sectors.
 
-En este llamado, invitamos a presentar propuestas para presentaciones de pósters. Las propuestas aceptadas se presentarán en una sesión de pósters durante la conferencia (que se llevará a cabo en el idioma  Inglés). Las presentaciones a través de este llamado sólo requerirán proporcionar un título y resumen (aunque se anima a los autores a cargar un artículo completo) a través de un formulario de presentación disponible en https://conference.eaamo.org/ más cerca de la fecha límite. El proceso de revisión se enfocará principalmente en la compatibilidad con la misión de EAAMO y el interés probable para la comunidad de EAAMO. Dado el lugar de la conferencia en México este año, damos la bienvenida a propuestas que brinden nuevos conocimientos sobre temas relevantes en la región de América Latina y el Caribe (LAC).
+In this call, we invite submissions for poster presentations. Accepted submissions will be presented at a poster session during the conference (which will be held in English). Submissions through this call will only be required to provide a title and abstract (though authors are encouraged to upload a full paper) via a submission form available at https://conference.eaamo.org/ closer to the deadline. The review process will focus largely on fit with the mission of EAAMO and likely interest to the EAAMO community. Given the conference location in Mexico this year, we welcome submissions that provide novel insights into issues of relevance in the Latin American and Caribbean (LAC) region.
 
-Tenga en cuenta que los pósters no resultan en la aceptación de un artículo y son completamente compatibles con la posterior presentación del trabajo en un lugar revisado por pares. EAAMO tradicionalmente ofrece presentaciones de pósters para algunos trabajos presentados a través del llamado regular de artículos que no fueron aceptados como artículos completos, pero que serían de interés para la comunidad. Este año, estamos ofreciendo una oportunidad adicional para presentar para su consideración únicamente como póster con una fecha límite posterior.
+Note that posters do not result in an accepted paper and are fully compatible with later submission of the work to a peer-reviewed venue. EAAMO traditionally offers poster presentations to some papers submitted through the regular call for papers that were not accepted as full papers, but that would interest the community. This year, we are offering an additional opportunity to submit for consideration solely as a poster with a later deadline.
 
-**Fecha límite: 7 de agosto de 2024**
+**Deadline: August 7, 2024**
 
-**Notificación a los autores: 28 de agosto de 2024**
+**Author notification: August 28, 2024**
 
-- - - 
+- - -
 
-## Áreas de interés
-Invitamos a presentar trabajos sobre temas, metodologías y enfoques que incluyen, pero no se limitan a:
-- consideraciones éticas, económicas, legales, filosóficas y sociales de intervenciones impulsadas por algoritmos
-- mecanismos redistributivos para mejorar el acceso a oportunidades y resultados equitativos
-- consecuencias micro y macroeconómicas de la desigualdad y las ineficiencias del mercado
-- determinantes y causas de daños, incluidos resultados inequitativos, fallas del mercado, comportamiento explotador e ineficiencias económicas
-- aprendizaje automático, optimización y diseño de mecanismos para aliviar ineficiencias, resultados económicos y sociales inequitativos e inseguros
-- incertidumbre, seguridad, privacidad y equidad en sistemas de asignación y representación
-- desafíos algorítmicos, éticos, políticos y sociales en la informática en entornos con recursos limitados
-- inferencia confiable, segura y válida en dominios socialmente relevantes
-- esfuerzos de recolección, curación, gobernanza, protección y compartición de datos para trabajos relacionados con mejorar el acceso a oportunidades
-- enfoques y herramientas algorítmicas para fomentar la participación, empoderar y organizar comunidades para el bien colectivo
-- regulación y diseño de políticas relacionadas con datos, privacidad, equidad, justicia y acceso a oportunidades
+## Areas of Interest
 
-Las áreas de aplicación de interés incluyen la participación cívica, las economías de datos, la discriminación y el sesgo, las desigualdades digitales y económicas, el desarrollo económico, la educación, el medio ambiente y el clima, la seguridad alimentaria, la atención médica, la vivienda, la infraestructura, los mercados laborales, la ley y la política, la informática de bajos recursos, la movilidad social y económica, la privacidad, la prestación de servicios públicos, los sistemas de recomendación, el trabajo social, el desarrollo sostenible y el transporte. Nuestra amplia lista de temas ilustra cómo diversas perspectivas y enfoques disciplinarios pueden triangular el progreso en áreas de interés compartido.
+We invite submissions on topics, methodologies, and approaches including, but not limited to:
+- ethical, economic, legal, philosophical, and societal considerations of algorithmically-driven interventions
+- redistributive mechanisms for improving access to opportunity and equitable outcomes
+- micro- and macroeconomic consequences of inequality and market inefficiencies
+- determinants and causes of harm, including inequitable outcomes, market failures, exploitative behavior, and economic inefficiencies
+- machine learning, optimization, and mechanism design for alleviating inefficiencies, inequitable, and unsafe economic and social outcomes
+- uncertainty, safety, privacy, and equity in allocative and representational systems
+- algorithmic, ethical, policy, and societal challenges in computing in resource-constrained settings
+- reliable, trustworthy, and valid inference in societally-consequential domains
+- data collection, curation, governance, protection, and sharing efforts for work related to improving access to opportunity
+- algorithmic approaches and tools to encourage participation, empower, and organize communities for the collective good
+- regulation and policy design related to data, privacy, equity, fairness, and access to opportunity
+
+Application areas of interest include civic participation, data economies, discrimination and bias, digital and economic inequalities, economic development, education, environment and climate, food security, healthcare, housing, infrastructure, labor markets, law and policy, low- and under-resourced computing, social and economic mobility, privacy, public service provision, recommender systems, social work, sustainable development, and transportation. Our broad list of topics illustrates how various perspectives and disciplinary approaches can triangulate progress on focus areas of shared interest.
