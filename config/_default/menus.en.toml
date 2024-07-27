@@ -21,9 +21,14 @@
   weight = 20
 
 [[main]]
+  name = "Social hackathon"
+  pageRef = "social_hackathon"
+  weight = 30
+
+[[main]]
   name = "Committees"
   pageRef = "committees"
-  weight = 30
+  weight = 40
 
  [[main]]
   identifier = "search"
