@@ -16,19 +16,24 @@
   weight = 10
 
 [[main]]
+  name = "Accepted Papers"
+  pageRef = "accepted_papers"
+  weight = 20
+
+[[main]]
   name = "Financial Assistance"
   pageRef = "financial_assistance"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Social hackathon"
   pageRef = "social_hackathon"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Committees"
   pageRef = "committees"
-  weight = 40
+  weight = 50
 
  [[main]]
   identifier = "search"
