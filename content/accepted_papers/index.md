@@ -2,6 +2,8 @@
 title: "Accepted Papers"
 date: 2024-07-30
 draft: false
+description: "A list of accepted papers."
+summary: "A list of accepted papers."
 showTableOfContents: false
 layout: "simple"
 ---
