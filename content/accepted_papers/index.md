@@ -38,7 +38,7 @@ layout: "simple"
 *Soroush Ebadian (University of Toronto), Rupert Freeman (University of Virginia), and Nisarg Shah (University of Toronto)*
 
 **(#56) Who's in and who's out? A case study of multimodal CLIP-filtering in DataComp**  
-*1. Rachel Hong (University of Washington), William Agnew (Carnegie Mellon University), Tadayoshi Kohno (University of Washington), and Jamie Morgenstern (University of Washington)*
+*Rachel Hong (University of Washington), William Agnew (Carnegie Mellon University), Tadayoshi Kohno (University of Washington), and Jamie Morgenstern (University of Washington)*
 
 **(#64) Fairness in Ranking under Disparate Uncertainty**  
 *Richa Rastogi (Cornell University) and Thorsten Joachims (Cornell University)*

@@ -13,9 +13,9 @@ En este llamado, invitamos a presentar propuestas para presentaciones de póster
 
 Tenga en cuenta que los pósters no resultan en la aceptación de un artículo y son completamente compatibles con la posterior presentación del trabajo en un lugar revisado por pares. EAAMO tradicionalmente ofrece presentaciones de pósters para algunos trabajos presentados a través del llamado regular de artículos que no fueron aceptados como artículos completos, pero que serían de interés para la comunidad. Este año, estamos ofreciendo una oportunidad adicional para presentar para su consideración únicamente como póster con una fecha límite posterior.
 
-**Fecha límite: 7 de agosto de 2024**
+**Fecha límite: 26 de agosto de 2024**
 
-**Notificación a los autores: 28 de agosto de 2024**
+**Notificación a los autores: 2 de setembro de 2024**
 
 - - - 
 
