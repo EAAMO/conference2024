@@ -62,3 +62,9 @@ layout: "simple"
 - Vahideh Manshadi, Yale University
 - Yoan Hermstrwer, University of Zurich
 - Saiph Savage, Northeastern University
+
+## Poster Chairs
+- Paula Rodriguez Diaz, Harvard University
+- Tilsa Ore Monago, Rice University
+- Ruben Martínez Cárdenas, University of York
+- Lily Xu, Oxford University
