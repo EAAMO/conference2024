@@ -13,5 +13,6 @@ slug: "organizers"
 - George Obaido, University of California, Berkeley.
 - Salvador Ruiz Correa, Instituto Potosino de Investigación Científica y Tecnológica.
 - Rubén López Revilla, Instituto Potosino de Investigación Científica y Tecnológica.
+- Dra. Lizet Jarquin Yañez, Universidad Autónoma de San Luis Potosí.
 - Sandro Radovanović, University of Belgrade.
 - Paula Rodríguez Díaz, Harvard University
