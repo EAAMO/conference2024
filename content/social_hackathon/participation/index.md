@@ -39,8 +39,9 @@ We invite you to submit your innovative solutions to the EAAMO Social Hackathon.
 - **Supplementary Materials:** Include any additional materials that support your submission.
 
 7. **Submission Process:**
+- **Declare interest:** Please declare your interest in participating in the EAAMO Social Hackathon by filling out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform).
 - **Data:** Data is available at the OpenSouth platform *[link will be available soon]*. For the initial analysis of the data, we recommend you to look at the following [GitHub repository](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
-- **Submission Portal:** Submit your documents and materials through the EAAMO Social Hackathon submission [form](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link).
+- **Submission Portal:** Once you finish with you project, submit your documents and materials through the EAAMO Social Hackathon submission [form](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link).
 - **Deadline:** Ensure your submission is completed by the end of September *[exact date will be available soon]*.
 
 We look forward to receiving your submissions and seeing how your innovative solutions can drive equity and access in addressing breast cancer and environmental contaminants in Mexico. For any questions or further information, please contact us on membership@eaamo.org.
