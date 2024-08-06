@@ -49,9 +49,9 @@ We look forward to receiving your submissions and seeing how your innovative sol
 - - -
 
 ## How to Register
-1. Visit our [registration page](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform). Please note that the maximum team size is eight, while the minimum team size is one. Ideally, we would like to have international-multidisciplinary teams.
-2. Fill out the registration form with your details.
-3. Form or join a team, or register as an individual and we'll help you find a team.
+1. Fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform) with your details. Please note that the maximum team size is eight, while the minimum team size is one. Ideally, we would like to have international-multidisciplinary teams.
+2. Form or join a team, or register as an individual and we'll help you find a team (by creating a Slack channel and sharing a list of people seeking to join a team).
+3. Work on your project.
 4. Submit your registration by *(date to be announced)*.
 
 Information about the data and the challenge will be available at the following [GitHub link](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
