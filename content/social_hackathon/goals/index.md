@@ -9,7 +9,9 @@ slug: "goals"
 ---
 ## The Social Hackathon Vision
 
-The Social Hackathon is more than a competition—it’s a call to action for the EAAMO community. This initiative is designed to harness the power of algorithms, optimization, and mechanism design, coupled with insights from the social sciences and humanistic studies, to tackle pressing social issues. Local partners provide curated datasets and extensive context on these issues, aiming to incorporate insights from impacted communities and policymakers. The goal is to create practical tools that bridge the research-to-practice pipeline. Winning teams will continue collaborating with policymakers to refine and implement their solutions.
+The Social Hackathon is more than a competition—it’s a call to action for the EAAMO community. This initiative is designed to harness the power of algorithms, optimization, and mechanism design, coupled with insights from the social sciences and humanistic studies, to tackle pressing social issues. Local partners provide curated datasets and extensive context on these issues, aiming to incorporate insights from impacted communities and policymakers. 
+
+**The goal is to create practical tools that bridge the research-to-practice pipeline. Winning teams will continue collaborating with policymakers to refine and implement their solutions.**
 
 ## Broad-Level Goals
 

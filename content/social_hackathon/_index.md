@@ -15,7 +15,7 @@ We invite you to participate in the Social Hackathon, a key component of the ACM
 
 Be part of this impactful endeavor by forming a team and contributing your skills and expertise. By participating in the Social Hackathon, you will have the opportunity to make a tangible difference in addressing critical social issues through innovative technological solutions.
 
-Together, let’s create solutions that drive equity and access for all.
+Together, let’s create solutions that drive equity and access for all. The maximum team size is eight, while the minimum team size is one. Ideally, we would like to  have international-multidisciplinary teams.
 
 ## This Year’s Challenge: Breast Cancer in Mexico
 
