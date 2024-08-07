@@ -26,7 +26,7 @@
   weight = 30
 
 [[main]]
-  name = "Social hackathon"
+  name = "Social Hackathon"
   pageRef = "social_hackathon"
   weight = 40
 
