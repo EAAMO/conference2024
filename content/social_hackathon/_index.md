@@ -11,7 +11,7 @@ cascade:
   invertPagination: true
   showPagination: true
 ---
-We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024.
+We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024. The social hackathon is co-organized by EAAMO, UASLP, IPICYT, and IPICYT's  Mobile Health Center.
 
 Be part of this impactful endeavor by forming a team and contributing your skills and expertise. By participating in the Social Hackathon, you will have the opportunity to make a tangible difference in addressing critical social issues through innovative technological solutions.
 

@@ -12,7 +12,7 @@ slug: "timeline"
 
 **August:**
 - **Virtual EAAMO Colloquium Talk**: Join us for a virtual colloquium featuring Professor Jacqueline Calderon and public health policymakers from the San Luis Potosi Secretary of Health and The Mexican Institute of Social Security. This session will provide extensive social context around breast cancer, focusing on public policy challenges in San Luis Potosi and Mexico.
--** Dataset Release and Call for Participation**: The dataset will be shared, and we will publicize the call for participation, opening submissions for the Social Hackathon.
+-**Dataset Release and Call for Participation**: The dataset will be shared, and we will publicize the call for participation, opening submissions for the Social Hackathon.
 - **Team Formation and Initial Work**: Participants are encouraged to form teams and begin their projects following the colloquium.
 
 **September:**
