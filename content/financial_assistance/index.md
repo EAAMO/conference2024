@@ -10,7 +10,7 @@ At EAAMO'24, we strive to create an inclusive and accessible conference where ev
 
 ---
 
-The application will be available up to **August 11, 2024**. We aim to release financial support packages by the end of August/early September.
+The application will be available up to ~~**August 11, 2024**~~ **August 16, 2024**. We aim to release financial support packages by the end of August/early September.
 
 Please apply for financial assistance using this [link](https://docs.google.com/forms/d/1exLRpnbti2XuBHYPL_OZFGaOmRwKJNyorEKXOrO6X4A/viewform).
 
