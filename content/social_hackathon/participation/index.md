@@ -40,7 +40,7 @@ We invite you to submit your innovative solutions to the EAAMO Social Hackathon.
 
 7. **Submission Process:**
 - **Declare interest:** Please declare your interest in participating in the EAAMO Social Hackathon by filling out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform).
-- **Data:** Data is available at the OpenSouth platform *[link will be available soon]*. For the initial analysis of the data, we recommend you to look at the following [GitHub repository](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
+- **Data:** Data is available at the [OpenSouth platform](https://data.opensouth.io/datasets/eaamo-2024-social-hackathon). For the initial analysis of the data, we recommend you to look at the following [GitHub repository](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
 - **Submission Portal:** Once you finish with you project, submit your documents and materials through the EAAMO Social Hackathon submission [form](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link).
 - **Deadline:** Ensure your submission is completed by the end of September *[exact date will be available soon]*.
 
@@ -50,7 +50,7 @@ We look forward to receiving your submissions and seeing how your innovative sol
 
 ## How to Register
 1. Fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform) with your details. Please note that the maximum team size is eight, while the minimum team size is one. Ideally, we would like to have international-multidisciplinary teams.
-2. Form or join a team, or register as an individual and we'll help you find a team (by creating a Slack channel and sharing a list of people seeking to join a team).
+2. Form or join a team, or register as an individual.
 3. Work on your project.
 4. Submit your registration by *(date to be announced)*.
 
