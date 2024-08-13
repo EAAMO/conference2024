@@ -63,8 +63,15 @@ layout: "simple"
 - Yoan Hermstrwer, University of Zurich
 - Saiph Savage, Northeastern University
 
+## Proceedings Chairs
+- Edwin Lock, Oxford University
+- Kristen Scott, KU Leuven
+
 ## Poster Chairs
 - Paula Rodriguez Diaz, Harvard University
 - Tilsa Ore Monago, Rice University
 - Ruben Martínez Cárdenas, University of York
 - Lily Xu, Oxford University
+
+## Social Chair
+- Raysa Benatti, University of Tübingen
