@@ -76,6 +76,10 @@ layout: "simple"
 ## Social Chair
 - Raysa Benatti, University of Tübingen
 
+## Registration and Travel Grants Chairs
+- Sandro Radovanović, University of Belgrade
+- Serafina Kamp, University of Michigan
+
 - - -
 
 ## Program Committee
