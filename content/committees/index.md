@@ -75,3 +75,96 @@ layout: "simple"
 
 ## Social Chair
 - Raysa Benatti, University of Tübingen
+
+- - -
+
+## Program Committee
+- Abraham Flaxman, Institute for Health Metrics and Evaluation
+- Adam Kapor, Princeton University
+- Akshaya Suresh, Yale University
+- Alejandro Robinson-Cortés, University of Exeter
+- Alessandro Bonatti, MIT Sloan
+- Alex Albright, Federal Reserve Bank of Minneapolis
+- Alex DiChristofano, Washington University in St. Louis
+- Alexandre Forel, Polytechnique Montreal
+- Amelie Marian, Rutgers University
+- André F. Cruz, Max Planck Institute for Intelligent Systems
+- Angela Zhou, USC
+- Anne Washington, New York University
+- Anson Kahng, University of Rochester
+- Atoosa Kasirzadeh, University of Edinburgh
+- Augustin Chaintreau, Columbia University
+- Bailey Flanigan, Carnegie Mellon University
+- Carlos Castillo, ICREA and Universitat Pompeu Fabra
+- Chinasa T. Okolo, Cornell University
+- Christine Herlihy, University of Maryland
+- Dasha Pruss, Harvard University
+- Divya Singhvi, New York University
+- Duncan McElfresh, Stanford Health Care
+- Emil Temnyalov, University of Technology Sydney
+- Emmanouil Pountourakis, Drexel University
+- Eric Chan, Babson College
+- Faidra Monachou, Yale University
+- Federico Bobbio, University of Montreal
+- Felipe Verástegui, Columbia University
+- Gabriel Pensamiento, University of Pittsburgh
+- George Obaido, University of California, Berkeley
+- Hedyeh Beyhaghi, Carnegie Mellon University
+- Henrietta Lyons, The University of Melbourne
+- Hongjin Lin, Harvard University
+- Hyemi Kim, Columbia University
+- Ingmar Weber, Saarland University
+- Jackie Baek, NYU
+- Jad Salem, U.S. Naval Academy
+- Jaron Mink, University of Illinois at Urbana-Champaign
+- Jessie Finocchiaro, Harvard University, Boston College
+- Joel Goh, National University of Singapore
+- Ken Moon, University of Pennsylvania
+- Kentaro Tomoeda, University of Technology Sydney
+- Lenore Cowen, Dept of Computer Science, Tufts University
+- Lily Xu, Harvard University
+- Linda Cai, Princeton University
+- Lynn Kirabo, Harvey Mudd College
+- Marc Juarez, University of Edinburgh
+- Marco Reuter, International Monetary Fund
+- Maria Y. Rodriguez, University at Buffalo, SUNY
+- Mario Banuelos, California State University, Fresno
+- Mateo Dulce, Carnegie Mellon University
+- Matias Romero, Columbia University
+- Michael Blair, Wilfrid Laurier University
+- Michael Hamilton, University of Pittsburgh
+- Michelle González Amador, UNU-MERIT and Maastricht University
+- Mir Masood Ali, University of Illinois at Chicago
+- Nabeel Gillani, Northeastern University
+- Neil Gaikwad, MIT
+- Neil Thakral, Thakral
+- Nicholas Teh, University of Oxford
+- Os Keyes, University of Washington
+- Parinaz Naghizadeh, University of California, San Diego
+- Paula Rodriguez Diaz, Harvard University
+- Raysa Benatti, University of Tübingen
+- Robin Bowers, University of Colorado Boulder
+- Robizon Khubulashvili, University of San Francisco
+- Sam Altmann, Paris School of Economics
+- Samuel Dooley, Abacus AI
+- Sandro Radovanović, University of Belgrade
+- Sara Kingsley, Carnegie Mellon University
+- Sarah Hladikova, Tufts University
+- Scott Rodilitz, UCLA Anderson School of Management
+- Shubham Singh, University of Illinois at Chicago
+- Shyam Balagurumurthy Viswanathan, City University of New York
+- Smitha Milli, Cornell Tech
+- Somya Singhvi, USC Marshall School of Business
+- Sumit Goel, New York University Abu Dhabi
+- Tilsa Ore Monago, Rice University
+- Titing Cui, University of Pittsburgh
+- Vlasta Sikimić, Eindhoven University of Technology
+- Wade Hann-Caruthers, Technion
+- Wanyi Dai Li, Stanford University
+- Yanhan (Savannah) Tang, Carnegie Mellon University
+- Yatong Chen, UC Santa Cruz
+- Yeqing Zhou, Department of Industrial Engineering and Innovation Sciences, Eindhoven University of Technology
+- Yifei Wang, None
+- Yingkai Li, Yale University
+- Zeky Murra-Anton, ISO New England
+- Zhaowei She, Singapore Management University

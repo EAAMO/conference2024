@@ -13,7 +13,7 @@ layout: "simple"
 **(#6) Stakeholder Involvement for Responsible AI Development: A Process Framework**  
 *Emma Kallina (University of Cambridge, Alan Turing Institute) and Jatinder Singh (University of Cambridge, Alan Turing Institute)*
 
-**(#10) The Silicone Ceiling: Auditing GPT’s Race and Gender Biases in Hiring**  
+**(#10) The Silicon Ceiling: Auditing GPT’s Race and Gender Biases in Hiring**  
 *Lena Armstrong (University of Pennsylvania), Abbey Liu (Temple University), Stephen MacNeil (Temple University), and Danae Metaxa (University of Pennsylvania)*
 
 **(#18) Effects of Incentivizing Take-up of Post-incarceration Support Services on Recidivism: An RCT with Varying Treatment Dosages**  
@@ -58,7 +58,7 @@ layout: "simple"
 **(#88) Automating Food Drop: The Power of Two Choices for Dynamic and Fair Food Allocation**  
 *Marios Mertzanidis (Purdue University), Alexandros Psomas (Purdue University), and Paritosh Verma (Purdue University)*
 
-**(#92) Algorithms for College Admissions Decision Support: Impacts of Policy Change and Inherent Variability**  
+**(#92) Ending Affirmative Action Harms Diversity Without Improving Academic Merit**  
 *Jinsook Lee (Cornell University), Emma Harvey (Cornell University), Joyce Zhou (Cornell University), Nikhil Garg (Cornell Tech), Thorsten Joachims (Cornell University), and Rene Kizilcec (Cornell University)*
 
 **(#99) Centralized Selection with Preferences in the Presence of Biases**  
