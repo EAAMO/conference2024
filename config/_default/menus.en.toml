@@ -25,15 +25,15 @@
   pageRef = "financial_assistance"
   weight = 30
 
+# [[main]]
+#   name = "Registration"
+#   pageRef = "registration"
+#   weight = 40
+
 [[main]]
   name = "Social Hackathon"
   pageRef = "social_hackathon"
   weight = 40
-
-[[main]]
-  name = "Committees"
-  pageRef = "committees"
-  weight = 50
 
  [[main]]
   identifier = "search"
@@ -65,3 +65,8 @@
    name = "Policies"
    pageRef = "policies"
    weight = 20
+
+[[footer]]
+  name = "Committees"
+  pageRef = "committees"
+  weight = 30
