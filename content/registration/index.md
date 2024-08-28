@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-date: 2024-07-30
+date: 2024-08-27
 draft: false
 description: "The page dedicated to the registration for the ACM EAAMO '24."
 summary: "The page dedicated to the registration for the ACM EAAMO '24."
@@ -18,12 +18,12 @@ Registration for the 4rd ACM Conference on Equity and Access in Algorithms, Mech
 The registration fees for *in-person participation* are the following:
 
 | Registration Item                                      | Early Bird (If Registered By: Sep/20/2024) | Regular Rate (If Registered By: Oct/29/2024) | Onsite Rate (If Registered By: Oct/31/2024) |
-|--------------------------------------------------------|-------------------------------------------|----------------------------------------------|---------------------------------------------|
-| ACM Professional Member - Full Conference  | $500                                      | $600                                         | $900                                        |
-| Non-Member - Full Conference               | $600                                      | $700                                         | $1,000                                      |
-| Student - Full Conference                  | $350                                      | $400                                         | $450                                        |
+|--------------------------------------------------------|:-------------------------------------------:|:----------------------------------------------:|:---------------------------------------------:|
+| ACM Professional Member  | $500                                      | $600                                         | $900                                        |
+| Non-Member               | $600                                      | $700                                         | $1,000                                      |
+| Student                  | $350                                      | $400                                         | $450                                        |
 
-EAAMO'24 is will take place in-person, in **San Luis Potosí, Mexico**. The keynote talks, paper presentations, posters, doctoral consortium, and social events will take place **in-person only**. 
+EAAMO'24 is will take place in-person, in **San Luis Potosí, Mexico**.
 
 - - -
 
@@ -33,10 +33,18 @@ Events such as keynote talks and paper presentations will be broadcasted over Zo
 The registration fees for *virtual attendance* are the following:
 
 | Registration Item                                      | Early Bird (If Registered By: Sep/20/2024) | Regular Rate (If Registered By: Oct/29/2024) | Onsite Rate (If Registered By: Oct/31/2024) |
-|--------------------------------------------------------|-------------------------------------------|----------------------------------------------|---------------------------------------------|
+|--------------------------------------------------------|:-------------------------------------------:|:----------------------------------------------:|:---------------------------------------------:|
 | ACM Professional Member - Full Conference    | $25                                       | $30                                          | $30                                         |
 | Non-Member - Full Conference                 | $50                                       | $60                                          | $60                                         |
 | Student - Full Conference                    | $10                                       | $10                                          | $15                                         |
+
+- - -
+
+## ACM EAAMO 2024 Hotel Discounts
+
+The ACM EAAMO conference has secured special discounted rates for attendees at two prominent hotels in San Luis Potosí. Participants can book their stay at [Hotel San Francisco](https://www.sanfranciscohotel.mx/) with rates starting at $1,079 MXN per night (approximatelly, $55 USD) for a single or double room, and $1,229 MXN (approximatelly, $63 USD) for triple or quadruple occupancy, inclusive of taxes. Alternatively, [Hotel Panorama](https://www.hotelpanorama.com.mx/) offers rooms starting at $1,120 MXN (approximatelly, $57 USD) per night for single or double occupancy and $1,270 MXN (approximatelly, $65 USD) for triple or quadruple, also including taxes. Both hotels provide convenient accommodations in the heart of the city, and attendees can benefit from associated restaurant discounts during their stay. To get the discound code, please register for the conference and send an email to membership@eaamo.org.
+
+- - -
 
 ## Requesting a Visa Support Letter
 

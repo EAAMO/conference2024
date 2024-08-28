@@ -25,10 +25,10 @@
   pageRef = "financial_assistance"
   weight = 30
 
-# [[main]]
-#   name = "Registration"
-#   pageRef = "registration"
-#   weight = 40
+[[main]]
+  name = "Registration"
+  pageRef = "registration"
+  weight = 40
 
 [[main]]
   name = "Social Hackathon"
