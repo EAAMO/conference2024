@@ -13,9 +13,9 @@ In this call, we invite submissions for poster presentations. Accepted submissio
 
 Note that posters do not result in an accepted paper and are fully compatible with later submission of the work to a peer-reviewed venue. EAAMO traditionally offers poster presentations to some papers submitted through the regular call for papers that were not accepted as full papers, but that would interest the community. This year, we are offering an additional opportunity to submit for consideration solely as a poster with a later deadline.
 
-**Deadline: August 26, 2024**
+**Deadline: September 9, 2024**
 
-**Author notification: September 2, 2024**
+**Author notification: September 16, 2024**
 
 **Submission Link:** [Link](https://docs.google.com/forms/d/e/1FAIpQLSfHma3y_vN4yd_nqnSXgMe65ZeMdbCPCU-UyxKs2ew1IixqFA/viewform?usp=sf_link)
 
