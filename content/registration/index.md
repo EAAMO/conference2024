@@ -13,6 +13,16 @@ Registration for the 4rd ACM Conference on Equity and Access in Algorithms, Mech
 
 - - -
 
+## Local Participants
+
+We are thrilled to announce that we have secured special pricing for local participants (from Mexico) for the conference! Understanding the importance of accessibility and inclusivity, we've worked closely with our partners and sponsors to offer discounted rates for attendees from the local community. This initiative is part of our commitment to fostering diverse participation and ensuring that everyone has the opportunity to engage with the conference discussions and networking opportunities that our conference provides. We encourage local participants to take advantage of this offer and join us in what promises to be an inspiring and enriching event.
+
+If you are from Mexico, please contact us at [membership@eaamo.org](mailto:membership@eaamo.org) for the special pricing ($100 for in-person participation).
+
+- - -
+
+## Prices
+
 **Important note:** Participants who received a complimentary registration grant will receive a code that will allow registration for free. **Please wait for that code before registering**. We will not be able to reimburse registration if one registers without this code.
 
 The registration fees for *in-person participation* are the following:
