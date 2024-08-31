@@ -9,13 +9,15 @@ showTableOfContents: True
 ---
 ## Registration
 
+**Logramos tener precios especiales para los participantes locales.**
+
 El registro para la 4.ª Conferencia ACM sobre equidad y acceso en algoritmos, mecanismos y optimización ya está disponible. [Regístrese aquí](https://cvent.me/LY9Ynz) para asistir a la conferencia. Si tiene alguna pregunta, contáctenos a [membership@eaamo.org](mailto:membership@eaamo.org).
 
 - - -
 
 **Nota importante:** Los participantes que recibieron una subvención de registro gratuita recibirán un código que les permitirá registrarse de forma gratuita. **Espere a que llegue ese código antes de registrarse**. No podremos reembolsar el registro si uno se registra sin este código.
 
-Logramos tener precios especiales para los participantes locales. Las tarifas de inscripción para la *participación presencial* son de $100 USD.
+Las tarifas de inscripción para la *participación presencial* son de $100 USD.
 
 EAAMO'24 se llevará a cabo en persona, en **San Luis Potosí, México**.
 
