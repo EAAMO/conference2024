@@ -9,7 +9,7 @@ showTableOfContents: True
 ---
 ## Registration
 
-**Logramos tener precios especiales para los participantes locales.**
+**Logramos tener precios especiales para los participantes locales (de México).**
 
 El registro para la 4.ª Conferencia ACM sobre equidad y acceso en algoritmos, mecanismos y optimización ya está disponible. [Regístrese aquí](https://cvent.me/LY9Ynz) para asistir a la conferencia. Si tiene alguna pregunta, contáctenos a [membership@eaamo.org](mailto:membership@eaamo.org).
 
