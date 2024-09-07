@@ -28,6 +28,6 @@ Las solicitudes para el consorcio doctoral y para financiamiento de viaje deben 
 
 Las decisiones sobre las solicitudes se tomarán a principios de octubre de 2024.
 
-Por favor, comuníquese con Juba Ziani [Juba Ziani](http://juba-ziani.com/) y [Jessie Finocchiaro](https://www.jessiefin.com/), los presidentes del consorcio doctoral, si tiene alguna pregunta.. 
+Por favor, comuníquese con [Juba Ziani](http://juba-ziani.com/) y [Jessie Finocchiaro](https://www.jessiefin.com/), los presidentes del consorcio doctoral, si tiene alguna pregunta.. 
  
 
