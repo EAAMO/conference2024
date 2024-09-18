@@ -22,7 +22,7 @@ Nos gustaría señalar una novedad:
     - *Daniel Berger*, anteriormente profesor en la Universidad de Essex, y ahora científico de datos principal en AFL-CIO, que está compuesta por 60 sindicatos que representan a 12 millones de trabajadores sindicalizados en los EE. UU."
 
 ### Aplicación
-Para postularse al consorcio doctoral, complete este [formulario](https://forms.gle/KwZ1MCWTT5MX6LLs7).
+Para postularse al consorcio doctoral, complete este [formulario](https://forms.gle/Wv6tGn3vsepSeXoXA).
 
 Las solicitudes para el consorcio doctoral y para financiamiento de viaje deben recibirse antes del **20 de septiembre de 2024**.
 
