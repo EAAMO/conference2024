@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Accepted Papers"
-  pageRef = "accepted_papers"
+  name = "Conference Information"
+  pageRef = "conference_information"
   weight = 20
 
 [[main]]
