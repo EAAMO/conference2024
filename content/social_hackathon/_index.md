@@ -17,6 +17,12 @@ Be part of this impactful endeavor by forming a team and contributing your skill
 
 Together, let’s create solutions that drive equity and access for all. The maximum team size is eight, while the minimum team size is one. Ideally, we would like to  have international-multidisciplinary teams.
 
+## How to Register
+1. Fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform) with your details. Please note that the maximum team size is eight, while the minimum team size is one. Ideally, we would like to have international-multidisciplinary teams.
+2. Form or join a team, or register as an individual.
+3. Work on your project. Check [participation page](participation) for more information. Data is available at the [OpenSouth platform](https://data.opensouth.io/datasets/eaamo-2024-social-hackathon). For the initial analysis of the data, we recommend you to look at the following [GitHub repository](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
+4. Submit your [project](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link) by October 2nd, 2024 (Anywhere on Earth).
+
 ## This Year’s Challenge: Breast Cancer in Mexico
 
 Breast cancer is the most common cancer in women in Mexico, accounting for 30% of malignant neoplasia. In 2020, The incidence rate was 40.5 per 100,000 inhabitants in the country, with an age-adjusted incidence of 49.3 per 100,000 reported in Merida alone in 2022. Established risk factors explain up to 70% of postmenopausal breast cancer cases in the US, but only one-third can be prevented by modifying lifestyle factors such as weight, hormone therapy, alcohol use, and physical activity.

@@ -34,7 +34,7 @@ We invite you to submit your innovative solutions to the EAAMO Social Hackathon.
 6. **Submission Format:**
 - **Team Information:** Include a brief team description (Team Leader, Contact Email, CVs of Team Members, GitHub Link, and Project title), including the names and roles of each team member.
 - **Main Document:** Submit a PDF document that includes all the sections outlined above. The document should be professionally formatted and easy to read.
-- **Video Presentation:** Include a ten minutes long video presentation that showcases your system's functionality.
+- **Video Presentation:** Include a short video presentation (at most ten minutes long) that showcases your system's functionality.
 - **Demo/Prototype:** If applicable, provide a link to a live demo or a downloadable prototype of your system.
 - **Supplementary Materials:** Include any additional materials that support your submission.
 
@@ -42,7 +42,8 @@ We invite you to submit your innovative solutions to the EAAMO Social Hackathon.
 - **Declare interest:** Please declare your interest in participating in the EAAMO Social Hackathon by filling out the [form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform).
 - **Data:** Data is available at the [OpenSouth platform](https://data.opensouth.io/datasets/eaamo-2024-social-hackathon). For the initial analysis of the data, we recommend you to look at the following [GitHub repository](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
 - **Submission Portal:** Once you finish with you project, submit your documents and materials through the EAAMO Social Hackathon submission [form](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link).
-- **Deadline:** Ensure your submission is completed by the end of September *[exact date will be available soon]*.
+- **Deadline:** Ensure your submission is completed by October 2nd, 2024 (Anywhere on Earth).
+- **Winner Announcement:** The winners will be announced on October 4th, 2024 (Anywhere on Earth).
 
 We look forward to receiving your submissions and seeing how your innovative solutions can drive equity and access in addressing breast cancer and environmental contaminants in Mexico. For any questions or further information, please contact us on membership@eaamo.org.
 
@@ -52,7 +53,7 @@ We look forward to receiving your submissions and seeing how your innovative sol
 1. Fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform) with your details. Please note that the maximum team size is eight, while the minimum team size is one. Ideally, we would like to have international-multidisciplinary teams.
 2. Form or join a team, or register as an individual.
 3. Work on your project.
-4. Submit your [project](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link) by the end of September *[exact date will be available soon]*.
+4. Submit your [project](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link) by October 2nd, 2024 (Anywhere on Earth).
 
 Information about the data and the challenge will be available at the following [GitHub link](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
 
