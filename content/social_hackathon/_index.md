@@ -11,6 +11,13 @@ cascade:
   invertPagination: true
   showPagination: true
 ---
+
+## News
+
+- Deadline for submission of your project is **October 2nd, 2024** (Anywhere on Earth). Submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link)
+
+## Social Hackathon
+
 We invite you to participate in the Social Hackathon, a key component of the ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO), to be held at the Autonomous University of San Luis Potosi (UASLP) in San Luis Potosi, Mexico on October 31, 2024. The social hackathon is co-organized by EAAMO, UASLP, IPICYT, and IPICYT's  Mobile Health Center.
 
 Be part of this impactful endeavor by forming a team and contributing your skills and expertise. By participating in the Social Hackathon, you will have the opportunity to make a tangible difference in addressing critical social issues through innovative technological solutions.
@@ -21,7 +28,7 @@ Together, let’s create solutions that drive equity and access for all. The max
 1. Fill out the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfkhRER8PW2Bc1wy-1ruM0qSi2pVgD-_zaWN0IYTEmsXKxRYw/viewform) with your details. Please note that the maximum team size is eight, while the minimum team size is one. Ideally, we would like to have international-multidisciplinary teams.
 2. Form or join a team, or register as an individual.
 3. Work on your project. Check [participation page](participation) for more information. Data is available at the [OpenSouth platform](https://data.opensouth.io/datasets/eaamo-2024-social-hackathon). For the initial analysis of the data, we recommend you to look at the following [GitHub repository](https://github.com/Mobile-Health-Center/Social-Hackathon-EAAMO-2024).
-4. Submit your [project](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link) by October 2nd, 2024 (Anywhere on Earth).
+4. Submit your [project](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link) by **October 2nd, 2024** (Anywhere on Earth).
 
 ## This Year’s Challenge: Breast Cancer in Mexico
 
