@@ -15,7 +15,7 @@ cascade:
 ## News
 
 - Deadline for submission of your project is **October 2nd, 2024** (Anywhere on Earth). Submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link).
-- Winners will be annouced by **October 4th, 2024** by the end of the day. 
+- Winners will be announced by **October 4th, 2024** by the end of the day. 
 
 ## Social Hackathon
 
