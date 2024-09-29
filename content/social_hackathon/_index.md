@@ -45,3 +45,4 @@ Understanding the impact of these environmental risk factors on breast cancer mo
 We are proud to partner with leading organizations, including:
 - Mobile Health Center, Instituto Potosino de Investigación Científica y Tecnológica
 - Universidad Autónoma de San Luis Potosí
+- Consejo Potosino de Ciencia y Tecnología (COPOCYT)
