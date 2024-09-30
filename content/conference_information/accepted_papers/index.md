@@ -2,8 +2,8 @@
 title: "Accepted Papers"
 date: 2024-07-30
 draft: false
-description: "A list of accepted papers."
-summary: "A list of accepted papers."
+description: "A list of accepted papers. The conference will have 30 papers from differeent areas of equity, access, algorithms, mechanisms, and optimization"
+summary: "A list of accepted papers. The conference will have 30 papers from differeent areas of equity, access, algorithms, mechanisms, and optimization"
 showTableOfContents: false
 layout: "simple"
 ---

@@ -2,8 +2,8 @@
 title: "Accepted Posters"
 date: 2024-07-23
 draft: false
-description: "A list of accepted posters."
-summary: "A list of accepted posters."
+description: "A list of accepted posters. Take a look at the posters and create a list of questions you would like to ask the authors."
+summary: "A list of accepted posters. Take a look at the posters and create a list of questions you would like to ask the authors."
 showTableOfContents: false
 layout: "simple"
 ---

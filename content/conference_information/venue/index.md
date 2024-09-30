@@ -2,8 +2,8 @@
 title: "Venue"
 date: 2024-09-23
 draft: false
-description: "Conference Venue"
-summary: "Conference Venue"
+description: "Conference Venue information. Where the conference will take place, as well as the local area."
+summary: "Conference Venue information. Where the conference will take place, as well as the local area."
 showTableOfContents: false
 layout: "simple"
 ---
