@@ -6,6 +6,13 @@ showTableOfContents: false
 layout: "simple"
 ---
 
+## General Chairs#
+{{< chair_image src="profile_photos/francisco_cossio.webp" name="Francisco Marmolejo Cossío" affiliation="Boston College" link="https://www.fmarmolejo.com/" >}}
+
+{{< chair_image src="profile_photos/amaury_de_jesus_pozos_guillen.jfif" name="Amaury de Jesús Pozos Guillén" affiliation="UASLP" link="https://www.researchgate.net/profile/Amaury-Pozos-Guillen" >}}
+
+{{< chair_image src="profile_photos/rosalba_medina_rivera.jfif" name="Dr. ROSALBA MEDINA RIVERA" affiliation="Director of COPOCYT" link="https://slp.gob.mx/copocyt/Paginas/Quienes-somos.aspx" >}}
+
 ## Program Chairs
 {{< chair_image src="profile_photos/nick_arnosti.jpeg" name="Nick Arnosti" affiliation="University of Minnesota" link="https://nickarnosti.com/" >}}
 
