@@ -26,9 +26,21 @@ Thank you for your attention and vigilance!
     We invite researchers and practitioners to submit their papers by <b>April 17, 2024 (AoE)</b>.
 </p> -->
 
+## About
+
 {{< figure
     src="san_luis_potosi_banner.jpg"
     alt="San Luis Potosi"
     >}}
 
  The conference aims to highlight work where techniques from algorithms, optimization, and mechanism design, along with insights from the social sciences and humanistic studies, can help improve equity and access to opportunity for historically disadvantaged and underserved communities. The conference will provide an international forum for presenting research papers, problem pitches, survey and position papers, new datasets, and software demonstrations towards the goal of bridging research and practice.
+
+ - - -
+
+ ## Sponsors
+
+![University of Pittsburgh University Center for International Studies](sponsors_images/ucis.png)
+
+![COPOCYT](sponsors_images/copocyt.png)
+
+<!-- ![Harvard University](sponsors_images/harvard.jfif) -->
