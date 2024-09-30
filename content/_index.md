@@ -40,7 +40,11 @@ Thank you for your attention and vigilance!
  ## Sponsors
 
 ![University of Pittsburgh University Center for International Studies](sponsors_images/ucis.png)
-
+- - -
 ![COPOCYT](sponsors_images/copocyt.png)
+- - -
+![David Rockefeller Center for Latin American Studies](sponsors_images/drclas_harvard.png)
+- - -
+![REDNACECYT](sponsors_images/rednacecyt.png)
 
 <!-- ![Harvard University](sponsors_images/harvard.jfif) -->
