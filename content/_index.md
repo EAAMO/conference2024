@@ -62,7 +62,7 @@ Thank you for your attention and vigilance!
 <p>
 <center>
 <img src="sponsors_images/ucis.png" alt="University of Pittsburgh University Center for International Studies" width="40%"  style="display:inline-block;"  />
-<img src="sponsors_images/upit_rds.png" alt="University of Pittsburgh RDS" width="40%"  style="display:inline-block;"/>
+<img src="sponsors_images/upit_rds.png" alt="University of Pittsburgh RDS" width="59%"  style="display:inline-block;"/>
 </center>
 </p>
 
