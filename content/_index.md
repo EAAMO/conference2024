@@ -55,10 +55,10 @@ Thank you for your attention and vigilance!
 <!-- Second Line: Four images -->
 <p>
 <center>
-<img src="sponsors_images/drclas_harvard.png" alt="David Rockefeller Center for Latin American Studies" width="20%" height="100" style="display:inline-block;" />
+<img src="sponsors_images/drclas_harvard.png" alt="David Rockefeller Center for Latin American Studies" width="25%" height="100" style="display:inline-block;" />
 <img src="sponsors_images/columbia.png" alt="Columbia University" width="20%" height="100" style="display:inline-block;"  />
-<img src="sponsors_images/ucis.png" alt="University of Pittsburgh University Center for International Studies" width="20%" height="100" style="display:inline-block;"  />
-<img src="sponsors_images/upit_rds.png" alt="University of Pittsburgh RDS" width="20%" height="100" style="display:inline-block;"/>
+<img src="sponsors_images/ucis.png" alt="University of Pittsburgh University Center for International Studies" width="27%" height="100" style="display:inline-block;"  />
+<img src="sponsors_images/upit_rds.png" alt="University of Pittsburgh RDS" width="25%" height="100" style="display:inline-block;"/>
 </center>
 </p>
 
@@ -67,7 +67,7 @@ Thank you for your attention and vigilance!
 <p>
 <center>
 <!-- Third Line: Two images -->
-<img src="sponsors_images/AIJ-cover.png" alt="AI Journal" width="10%" height="100" style="display:inline-block;"  />
+<img src="sponsors_images/AIJ-cover.png" alt="AI Journal" width="8%" height="100" style="display:inline-block;"  />
 <img src="sponsors_images/economachina.png" alt="Economachina " width="20%" height="100" style="display:inline-block;"  />
 </center>
 </p>
