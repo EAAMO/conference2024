@@ -39,12 +39,45 @@ Thank you for your attention and vigilance!
 
  ## Sponsors
 
-![University of Pittsburgh University Center for International Studies](sponsors_images/ucis.png)
+<!-- First Line: Five images -->
+<p>
+<center>
+    <img src="sponsors_images/acm_logo.png" alt="ACM" width="20%" height="100" style="display:inline-block;" />
+    <img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="12%" height="100" style="display:inline-block;" />
+    <img src="sponsors_images/sigecom.png" alt="ACM SIGECOM" width="20%" height="100" style="display:inline-block;" />
+    <img src="sponsors_images/rednacecyt.png" alt="REDNACECYT" width="20%" height="100" style="display:inline-block;" />
+    <img src="sponsors_images/copocyt.png" alt="COPOCYT" width="20%" height="100" style="display:inline-block;" />
+</center>
+</p>
+
+- - -
+
+<!-- Second Line: Four images -->
+<p>
+<center>
+<img src="sponsors_images/drclas_harvard.png" alt="David Rockefeller Center for Latin American Studies" width="20%" height="100" style="display:inline-block;" />
+<img src="sponsors_images/columbia.png" alt="Columbia University" width="20%" height="100" style="display:inline-block;"  />
+<img src="sponsors_images/ucis.png" alt="University of Pittsburgh University Center for International Studies" width="20%" height="100" style="display:inline-block;"  />
+<img src="sponsors_images/upit_rds.png" alt="University of Pittsburgh RDS" width="20%" height="100" style="display:inline-block;"/>
+</center>
+</p>
+
+- - -
+
+<p>
+<center>
+<!-- Third Line: Two images -->
+<img src="sponsors_images/AIJ-cover.png" alt="AI Journal" width="10%" height="100" style="display:inline-block;"  />
+<img src="sponsors_images/economachina.png" alt="Economachina " width="20%" height="100" style="display:inline-block;"  />
+</center>
+</p>
+
+<!-- ![University of Pittsburgh University Center for International Studies](sponsors_images/ucis.png)
 - - -
 ![COPOCYT](sponsors_images/copocyt.png)
 - - -
 ![David Rockefeller Center for Latin American Studies](sponsors_images/drclas_harvard.png)
 - - -
-![REDNACECYT](sponsors_images/rednacecyt.png)
+![REDNACECYT](sponsors_images/rednacecyt.png) -->
 
 <!-- ![Harvard University](sponsors_images/harvard.jfif) -->
