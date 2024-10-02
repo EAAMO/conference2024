@@ -44,6 +44,15 @@ Thank you for your attention and vigilance!
 <center>
     <img src="sponsors_images/rednacecyt.svg" alt="REDNACECYT" width="40%" style="display:inline-block;" />
     <img src="sponsors_images/copocyt.png" alt="COPOCYT" width="40%" style="display:inline-block;" />
+</center>
+</p>
+<p>
+<center>
+    <img src="sponsors_images/san_luis_capital.jpeg" alt="San Luis Capital" width="30%" style="display:inline-block;" />
+</center>
+</p>
+<p>
+<center>
     <img src="sponsors_images/acm_logo.png" alt="ACM" width="30%" style="display:inline-block;" />
     <img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="18%" style="display:inline-block;" />
     <img src="sponsors_images/sigecom.png" alt="ACM SIGECOM" width="30%" style="display:inline-block;" />
