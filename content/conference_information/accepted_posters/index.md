@@ -50,3 +50,4 @@ layout: "simple"
 - *Uncovering a Culture of AI Grassroots Experimentation in Boston City: Safety Risks and Mitigation* by Audrey Chang
 - *Sustainable Investing Strategies with Tradable Assets* by Felipe Verástegui
 - *AI as Author: An Analysis of Short Story Writing* by Sofia Gianuzzi
+- *[SHERLOCK] Investigation into AI agents and Data Privacy: Using an AI Agent to Identify Individuals and Write Biographies from a Single Photo* by Alina Yu
