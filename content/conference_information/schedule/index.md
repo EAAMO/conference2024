@@ -7,6 +7,8 @@ summary: "The tentative schedule for the conference includes keynote presentatio
 showTableOfContents: true
 ---
 
+The main conference will be in [Auditorio Rafael Nieto](../venue/).
+
 ## October 29, 2024, Tuesday
 
 | Time       | Event                          |
@@ -21,6 +23,7 @@ showTableOfContents: true
 | 11:20      | *(#56) Who's in and who's out? A case study of multimodal CLIP-filtering in DataComp*                                     |
 | 11:40      | *(#92) Ending Affirmative Action Harms Diversity Without Improving Academic Merit*      |
 | 12:00      | **Lunch + [Doctoral Consortium](../../cfp/doctoral-consortium/)**                       |
+|            | Lunch will take place in Patio de la Autonomía Edificio Central                         |
 | 13:30      | **[Plenary Talk - Ishtiaque Ahmed](../invited_speakers/)**                              |
 | 15:00      | **Session: Position Papers**   |
 | 15:00      | *(#75) Bridging Research and Practice Through Conversations with Practitioners*         |
@@ -33,10 +36,12 @@ showTableOfContents: true
 | Time       | Event                         |
 |------------|-------------------------------|
 | 09:00      | EAAMO Bridges Session         |
+| 10:00      | Social Hackathon Presentations                                                            |
 | 11:00      | **Session: Best papers**      |
 | 11:00      | Best Paper: *(#203) A Simple, Statistically Robust Test of discrimination*                |
 | 11:30      | Best Student Paper: *(#88) Automating Food Drop: The Power of Two Choices for Dynamic and Fair Food Allocation*                                  |
 | 12:00      | **Lunch**                     |
+|            | Lunch will take place in Patio de la Autonomía Edificio Central                           |
 | 13:30      | **[Plenary Talk - Alessandra Fogli](../invited_speakers/)**                               |
 | 15:00      | **Session: Applied Modeling** |
 | 15:00      | *(#34) The Dedicated Docket in U.S. Immigration Courts: An Analysis of Fairness and Efficiency Properties*                                  |
@@ -54,6 +59,7 @@ showTableOfContents: true
 | 11:20      | *(#243) Fair Classification with Partial Feedback: An Exploration-Based Data Collection Approach*                                     |
 | 11:40      | *(#317) Learning treatment effects while treating those in need*                          |
 | 12:00      | **Lunch**                      |
+|            | Lunch will take place in Patio de la Autonomía Edificio Central                           |
 | 13:30      | **Session: Theory**            |
 | 13:30      | *(#39) A Causal Framework to Evaluate Racial Bias in Law Enforcement Systems*             |
 | 13:50      | *(#49) Harm Ratio: A Novel and Versatile Fairness Criterion*                              |
