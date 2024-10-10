@@ -7,8 +7,8 @@ summary: "A list of accepted papers. The conference will have 30 papers from dif
 showTableOfContents: false
 layout: "simple"
 ---
-**(#5) The Public Housing Allocation Problem**  
-*Zeky Murra-Anton (ISO New England) and Neil Thakral (Brown University)*
+<!-- **(#5) The Public Housing Allocation Problem**  
+*Zeky Murra-Anton (ISO New England) and Neil Thakral (Brown University)* -->
 
 **(#6) Stakeholder Involvement for Responsible AI Development: A Process Framework**  
 *Emma Kallina (University of Cambridge, Alan Turing Institute) and Jatinder Singh (University of Cambridge, Alan Turing Institute)*
@@ -25,8 +25,8 @@ layout: "simple"
 **(#34) The Dedicated Docket in U.S. Immigration Courts: An Analysis of Fairness and Efficiency Properties**  
 *Daniel Freund (Massachusetts Institute of Technology) and Wentao Weng (Massachusetts Institute of Technology)*
 
-**(#36) Obumanzi Access Framework: Empowering Small-holder Farmers in Uganda through Accessible Climate Finance**  
-*Joan Nkiriki (Independent Energy Policy Analyst) and Lynn Kirabo (Harvey Mudd College)*
+<!-- **(#36) Obumanzi Access Framework: Empowering Small-holder Farmers in Uganda through Accessible Climate Finance**  
+*Joan Nkiriki (Independent Energy Policy Analyst) and Lynn Kirabo (Harvey Mudd College)* -->
 
 **(#39) A Causal Framework to Evaluate Racial Bias in Law Enforcement Systems**  
 *Jessy Xinyi Han (Massachusetts Institute of Technology), Andrew Miller (United States Naval Academy), S. Craig Watkins (University of Texas at Austin),  Christopher Winship (Harvard University), Fotini Christia (Massachusetts Institute of Technology), and Devavrat Shah (Massachusetts Institute of Technology)*
@@ -43,8 +43,8 @@ layout: "simple"
 **(#64) Fairness in Ranking under Disparate Uncertainty**  
 *Richa Rastogi (Cornell University) and Thorsten Joachims (Cornell University)*
 
-**(#66) Who gets the bonus? Affirmative Action Reforms in High School Admissions in China**  
-*Umut Dur (North Carolina State University), Onur Kesten (University of Sydney), Tong Wang (The University of Tokyo), and Congyi Zhou (New York University)*
+<!-- **(#66) Who gets the bonus? Affirmative Action Reforms in High School Admissions in China**  
+*Umut Dur (North Carolina State University), Onur Kesten (University of Sydney), Tong Wang (The University of Tokyo), and Congyi Zhou (New York University)* -->
 
 **(#72) Harmful Speech Detection by Language Models Exhibits Gender-Queer Dialect Bias**  
 *Rebecca Dorn (University of Southern California), Lee Kezar (University of Southern California), Fred Morstatter (USC Information Sciences Institute), and Kristina Lerman (USC Information Sciences Institute)*
@@ -52,8 +52,8 @@ layout: "simple"
 **(#75) Bridging Research and Practice Through Conversations with Practitioners**  
 *Mayra Russo (Leibniz Universität Hanover), Mackenzie Jorgensen (King's College London), Kristen M. Scott (KU Leuven), Wendy Xu (Chinese University of Hong Kong), Di H. Nguyen (University College Dublin), Jessie Finocchiaro (Harvard CRCS), and Matthew Olckers (Macquarie University)*
 
-**(#79) Rawlsian Assignments**  
-*Tom Demeulemeester (Research Center for Operations Research & Statistics, KU Leuven, & Department of Business Informatics and Operations Management, Ghent University), and Juan Pereyra (Universidad de Montevideo)*
+<!-- **(#79) Rawlsian Assignments**  
+*Tom Demeulemeester (Research Center for Operations Research & Statistics, KU Leuven, & Department of Business Informatics and Operations Management, Ghent University), and Juan Pereyra (Universidad de Montevideo)* -->
 
 **(#88) Automating Food Drop: The Power of Two Choices for Dynamic and Fair Food Allocation**  
 *Marios Mertzanidis (Purdue University), Alexandros Psomas (Purdue University), and Paritosh Verma (Purdue University)*
