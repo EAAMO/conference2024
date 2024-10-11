@@ -18,10 +18,10 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/).
 | 09:30      | *(#19) Markovian Search with Socially Aware Constraints*                                |
 | 09:50      | *(#64) Fairness in Ranking under Disparate Uncertainty*                                 |
 | 10:10      | *(#112) Fairness rising from the ranks: HITS and PageRank on Homophilic Networks*                                     |
-| 11:00      | **Session: Empirical Studies** |
-| 11:00      | *(#18) Effects of Incentivizing Take-up of Post-incarceration Support Services on Recidivism: An RCT with Varying Treatment Dosages*                            |
-| 11:20      | *(#56) Who's in and who's out? A case study of multimodal CLIP-filtering in DataComp*                                     |
-| 11:40      | *(#92) Ending Affirmative Action Harms Diversity Without Improving Academic Merit*      |
+| 11:00      | **Session: LLM I**             |
+| 11:00      | *(#10) The Silicon Ceiling: Auditing GPT’s Race and Gender Biases in Hiring*              |
+| 11:20      | *(#72) Harmful Speech Detection by Language Models Exhibits Gender-Queer Dialect Bias*                                         |
+| 11:40      | *(#6) Stakeholder Involvement for Responsible AI Development: A Process Framework*        |
 | 12:00      | **Lunch + [Doctoral Consortium](../../cfp/doctoral-consortium/)**                       |
 |            | Lunch will take place in Patio de la Autonomía Edificio Central                         |
 | 13:30      | **[Plenary Talk - Ishtiaque Ahmed](../invited_speakers/)**                              |
@@ -64,10 +64,10 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/).
 | 13:30      | *(#39) A Causal Framework to Evaluate Racial Bias in Law Enforcement Systems*             |
 | 13:50      | *(#49) Harm Ratio: A Novel and Versatile Fairness Criterion*                              |
 | 14:10      | *(#99) Centralized Selection with Preferences in the Presence of Biases*                  |
-| 15:00      | **Session: LLM I**             |
-| 15:00      | *(#10) The Silicon Ceiling: Auditing GPT’s Race and Gender Biases in Hiring*              |
-| 15:20      | *(#72) Harmful Speech Detection by Language Models Exhibits Gender-Queer Dialect Bias*                                         |
-| 15:40      | *(#189)*                       |
+| 15:00      | **Session: Empirical Studies** |
+| 15:00      | *(#18) Effects of Incentivizing Take-up of Post-incarceration Support Services on Recidivism: An RCT with Varying Treatment Dosages*                            |
+| 15:20      | *(#56) Who's in and who's out? A case study of multimodal CLIP-filtering in DataComp*                                     |
+| 15:40      | *(#92) Ending Affirmative Action Harms Diversity Without Improving Academic Merit*      |
 | 16:30      | **Session: LLM II**            |
 | 17:00      | *(#201) Racial Steering by Large Language Models: A Prospective Audit of GPT-4 on Housing Recommendations*                              |
 | 17:20      | *(#204) Auditing Gender Presentation Differences in Text-to-Image Models*                 |
