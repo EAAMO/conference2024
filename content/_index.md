@@ -8,8 +8,8 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 - - -
 
 ## News:
-- Conference Program is now [available](conference_information/schedule/) page.
-- Information about the venue, accepted papers, and accepted posters is now available at [conference information](conference_information) page.
+- Conference Program is now available on [this page](conference_information/schedule/).
+- Information about the venue, accepted papers, and accepted posters is now available on the [conference information](conference_information) page.
 - Registration is open! Please visit the [registration page](registration) to register for the conference.
 - **Important Notice for ACM EAAMO '24 Participants: Beware of Unaffiliated Emails**
 
