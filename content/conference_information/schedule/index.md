@@ -7,7 +7,7 @@ summary: "The tentative schedule for the conference includes keynote presentatio
 showTableOfContents: true
 ---
 
-The main conference will be in [Auditorio Rafael Nieto](../venue/).
+The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note that time presented in tables below are in [UTC-6 (San Luis Potosi)](https://www.worldtimebuddy.com/mexico-san-luis-potosi-to-est).
 
 ## October 29, 2024, Tuesday
 
