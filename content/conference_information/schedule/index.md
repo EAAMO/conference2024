@@ -26,7 +26,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 |            | Lunch will take place in Patio de la Autonomía Edificio Central                         |
 | 13:30      | **[Plenary Talk - Ishtiaque Ahmed](../invited_speakers/)**                              |
 | 15:00      | **Session: Position Papers**   |
-| 15:00      | *(#75) Bridging Research and Practice Through Conversations with Practitioners*         |
+| 15:00      | *(#75) Bridging Research and Practice Through Conversation: Reflecting on Our Experience*         |
 | 15:20      | *(#155) Explainable AI in Practice: Practitioner Perspectives on AI for Social Good and User Engagement in the Global South*                                 |
 | 15:40      | *(#184) The Case for Globalizing Fairness: A Mixed Methods Study on Colonialism, AI, and Health in Africa*                                       |
 | 16:30      | **[Poster Session I](../accepted_posters/)**                                            |

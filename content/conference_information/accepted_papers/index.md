@@ -49,7 +49,7 @@ layout: "simple"
 **(#72) Harmful Speech Detection by Language Models Exhibits Gender-Queer Dialect Bias**  
 *Rebecca Dorn (University of Southern California), Lee Kezar (University of Southern California), Fred Morstatter (USC Information Sciences Institute), and Kristina Lerman (USC Information Sciences Institute)*
 
-**(#75) Bridging Research and Practice Through Conversations with Practitioners**  
+**(#75) Bridging Research and Practice Through Conversation: Reflecting on Our Experience**  
 *Mayra Russo (Leibniz Universität Hanover), Mackenzie Jorgensen (King's College London), Kristen M. Scott (KU Leuven), Wendy Xu (Chinese University of Hong Kong), Di H. Nguyen (University College Dublin), Jessie Finocchiaro (Harvard CRCS), and Matthew Olckers (Macquarie University)*
 
 <!-- **(#79) Rawlsian Assignments**  
