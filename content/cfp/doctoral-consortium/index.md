@@ -23,6 +23,13 @@ We would like to point attention to two new things:
     - *Karoline Pershell*, formerly faculty at Rice, now COO of SRT Robotics Lab, AAAS SciTech Policy Fellow, and former Executive Director of Association for Women in Mathematics; and
     - *Daniel Berger*, formerly faculty at University of Essex, and is now the lead data scientist at AFL-CIO, which is made up of 60 unions that represent 12 million unionized workers in the US."
 
+##### Karoline Pershell
+
+**Biography**: Karoline received her BS in Mathematics from the University of Tennessee at Martin, where she was a member of the UTM Rodeo Team as the first full time female bull rider in the collegiate circuit. She received her MS and PhD in Mathematics from Rice University. Following graduation, Dr. Pershell returned to UTM as an Assistant Professor of Mathematics, where she has also had the privilege of teaching overseas at Qingdao University in China and at the University of Hyderabad in India as a Fulbright Scholar. In 2013, Karoline was awarded the AAAS Science & Technology Diplomacy Fellowship, through which she joined the Department of State as Evaluation Coordinator at the Foreign Service Institute. In 2015, she became Lead Data Scientist for Zenti, a Silicon Valley startup focused on sentiment analysis of social media data and led algorithm optimization. From 2018-2020, she served as Executive Director of the Association for Women in Mathematics, where her work focused on support of individual womxn pursuing careers in the mathematical sciences as well as driving institutional change towards creating welcoming environments. Dr. Pershell is currently the COO and Director of Strategy & Evaluation at Service Robotics & Technologies, a software company integrating robotics and smart building technologies.
+
+Throughout her career, Karoline has focused on the perception of the gender barriers in math and presented her work on societal support structures for women in STEM at the International Conference on Gender Relations in Developing Societies and the UNM Mentoring Conference. To date, Karoline's most meaningful accolade continues to be the UTM Rodeo Team's Bumble Bee Award which states, “Physics says that the bumble bee should not be able to fly. The bee ignores this information and goes on to fly and achieve.” Karoline Pershell is a Sagittarius, a Gryffindor, tolerates her husband’s Star Wars infatuation and is constantly confounded by her toddler son, Kepler. She currently lives near Washington, DC and can be found working when she isn’t hikin.
+
+
 ### Application
 To apply for the doctoral consortium, fill out [this form](https://forms.gle/KwZ1MCWTT5MX6LLs7).
 
