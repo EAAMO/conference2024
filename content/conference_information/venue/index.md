@@ -13,10 +13,17 @@ The ACM EAAMO'24 conference will take place at San Luis Potosí, Mexico, an inst
 
 The ACM EAAMO'24 will take place in:
 - [Auditorio Rafael Nieto](https://www.uaslp.mx/DifusionCultural/Paginas/Sedes/578#gsc.tab=0)
+- Patio de la Autonomía Edificio Central
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3695.3026119828555!2d-100.9777276!3d22.1525502!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842aa1ff7fd30de5%3A0x380a01c8839b57f!2sAuditorio%20Rafael%20Nieto!5e0!3m2!1sen!2srs!4v1727098249334!5m2!1sen!2srs" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 - - -
+
+### About San Luis Potosí
+
+Explore the best of San Luis Potosí! Check out the map for must-visit spots and start planning your adventure.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1bA1A3g_cwRS3kBxzhksM7Qs-dVUqQt8&ehbc=2E312F" width="640" height="480"></iframe>
 
 ### Community and Safety
 Please review our [policies](policies) and the following community agreements before joining the conference. We are committed to fostering an inclusive and safe environment for all our participants. As an ACM-sponsored conference, we abide by the ACM Anti-harrassment Policy and ACM Privacy Policy.

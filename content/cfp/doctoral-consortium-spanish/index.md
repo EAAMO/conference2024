@@ -8,10 +8,13 @@ showTableOfContents: false
 slug: "doctoral-consortium-spanish"
 ---
 
-La cuarta Conferencia ACM sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO '24) se llevará a cabo del 29 al 31 de octubre de 2024 en San Luis Potosí, México.
-El evento destacará el trabajo a lo largo de la línea de investigación a práctica para mejorar el acceso a oportunidades para comunidades históricamente desatendidas y desfavorecidas, y mitigar los daños relacionados con resultados inequitativos y peligrosos. En particular, buscamos contribuciones de diferentes campos que ofrezcan ideas sobre el diseño interseccional y los impactos de los algoritmos, la optimización y el diseño de mecanismos con un fundamento en las ciencias sociales y los estudios humanísticos. 
+### Noticias
+- Como parte del Consorcio Doctoral, Carolyn Pershall impartirá una charla sobre Zoom en el Auditorio Rafael Nieto.
 
 ### Consorcio Doctoral
+
+La cuarta Conferencia ACM sobre Equidad y Acceso en Algoritmos, Mecanismos y Optimización (EAAMO '24) se llevará a cabo del 29 al 31 de octubre de 2024 en San Luis Potosí, México.
+El evento destacará el trabajo a lo largo de la línea de investigación a práctica para mejorar el acceso a oportunidades para comunidades históricamente desatendidas y desfavorecidas, y mitigar los daños relacionados con resultados inequitativos y peligrosos. En particular, buscamos contribuciones de diferentes campos que ofrezcan ideas sobre el diseño interseccional y los impactos de los algoritmos, la optimización y el diseño de mecanismos con un fundamento en las ciencias sociales y los estudios humanísticos. 
 
 EAAMO 2024 contará con un consorcio doctoral para estudiantes que tengan intereses relevantes para la conferencia. El evento permitirá a los estudiantes conocer a otros estudiantes en el campo, aprender sobre trayectorias profesionales relacionadas, tener la oportunidad de presentar su trabajo, participar en sesiones de habilidades dedicadas y tener reuniones con mentores académicos. 
 Aunque está dirigido principalmente a estudiantes de doctorado, el consorcio doctoral también está abierto a estudiantes de pregrado y maestría. El contenido estará principalmente diseñado para estudiantes en programas de informática, investigación de operaciones y economía, pero los estudiantes de todos los campos son bienvenidos a aplicar.
@@ -28,6 +31,6 @@ Las solicitudes para el consorcio doctoral y para financiamiento de viaje deben 
 
 Las decisiones sobre las solicitudes se tomarán a principios de octubre de 2024.
 
-Por favor, comuníquese con [Juba Ziani](http://juba-ziani.com/) y [Jessie Finocchiaro](https://www.jessiefin.com/), los presidentes del consorcio doctoral, si tiene alguna pregunta.. 
+Por favor, comuníquese con [Juba Ziani](http://juba-ziani.com/), [Jessie Finocchiaro](https://www.jessiefin.com/), o [Dra. Michelle Amador](https://www.m-gonzalezamador.com/), los presidentes del consorcio doctoral, si tiene alguna pregunta.. 
  
 

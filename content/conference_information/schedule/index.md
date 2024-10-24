@@ -13,33 +13,47 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 
 | Time       | Event                          |
 |------------|--------------------------------|
+| 08:00      | Registration                   |
 | 09:00      | Conference Opening             |
 | 09:30      | **Session: Search and Ranking**|
 | 09:30      | *(#19) Markovian Search with Socially Aware Constraints*                                |
 | 09:50      | *(#64) Fairness in Ranking under Disparate Uncertainty*                                 |
 | 10:10      | *(#112) Fairness rising from the ranks: HITS and PageRank on Homophilic Networks*                                     |
+| 10:30      | *Cafe break at the lobby of Rafael Nieto*                                    |
 | 11:00      | **Session: LLM I**             |
 | 11:00      | *(#10) The Silicon Ceiling: Auditing GPT’s Race and Gender Biases in Hiring*              |
 | 11:20      | *(#72) Harmful Speech Detection by Language Models Exhibits Gender-Queer Dialect Bias*                                         |
 | 11:40      | *(#6) Stakeholder Involvement for Responsible AI Development: A Process Framework*        |
-| 12:00      | **Lunch + [Doctoral Consortium](../../cfp/doctoral-consortium/)**                       |
+| 12:00      | **Lunch + [Doctoral Consortium I](../../cfp/doctoral-consortium/)**                       |
 |            | Lunch will take place in Patio de la Autonomía Edificio Central                         |
+| 12:45      | *As a part of the doctoral consoritum, Karoline Pershell will have a talk on Zoom at the Auditorio Rafael Nieto*                                        |
 | 13:30      | **[Plenary Talk - Ishtiaque Ahmed](../invited_speakers/)**                              |
 | 15:00      | **Session: Position Papers**   |
 | 15:00      | *(#75) Bridging Research and Practice Through Conversation: Reflecting on Our Experience*         |
 | 15:20      | *(#155) Explainable AI in Practice: Practitioner Perspectives on AI for Social Good and User Engagement in the Global South*                                 |
 | 15:40      | *(#184) The Case for Globalizing Fairness: A Mixed Methods Study on Colonialism, AI, and Health in Africa*                                       |
-| 16:30      | **[Poster Session I](../accepted_posters/)**                                            |
+| 16:00      | *Cafe break at patio de la Autonomía Edificio Central*                                    |
+| 16:30      | **[Poster Session I](../accepted_posters/)** at patio de la Autonomía Edificio Centra                                        |
+| 18:00      | **Social Event:** [Callejoneada](https://en.wikipedia.org/wiki/Tuna_(music))              |
+|            | Starts in Plaza Fundadores and ends in Plaza San Francisco                                |
+|            | People can get drinks/meals at San Francisco/Aranzazu                                     |
+|            | *A callejoneada is a traditional Mexican musical procession and celebration that takes place in the streets and alleyways of cities in Mexico*                                                                           |
+
+
 
 ## October 30, 2024, Wednesday
 
 | Time       | Event                         |
 |------------|-------------------------------|
+| 08:00      | Registration                  |
 | 09:00      | EAAMO Bridges Session         |
-| 10:00      | Social Hackathon Presentations                                                            |
+| 09:45      | Social Hackathon Presentations                                                            |
+|            | *Contribution based Budget Allocation for Breast Cancer Mortality Reduction* by Shobhit Jagga                                                                                                    |
+|            | *Team ALMA* by Coby Garcia, Cody Chou, and Joaquin Alvarez                                                                                                  |
+|            | *Parallelized system for breast cancer surveillance and early detection in Mexico* by Héctor Segura Quintanilla, Ericka Ovando-Becerril, and Daniela Sánchez-Batallas                                                                                         |
+|            | *Team SANA* by Sarah Shirley, Alina Yu, Fiona Millan, Jasmine Andresol, Audrey Chang,  Diana Yue, and Richael Saka                                                                                                     |
+| 10:30      | *Cafe break at the lobby of Rafael Nieto*                                                 |
 | 11:00      | **Session: Best papers**      |
-| 11:00      | Best Paper: *(#203) A Simple, Statistically Robust Test of discrimination*                |
-| 11:30      | Best Student Paper: *(#88) Automating Food Drop: The Power of Two Choices for Dynamic and Fair Food Allocation*                                  |
 | 12:00      | **Lunch**                     |
 |            | Lunch will take place in Patio de la Autonomía Edificio Central                           |
 | 13:30      | **[Plenary Talk - Alessandra Fogli](../invited_speakers/)**                               |
@@ -47,19 +61,32 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 15:00      | *(#34) The Dedicated Docket in U.S. Immigration Courts: An Analysis of Fairness and Efficiency Properties*                                  |
 | 15:20      | *(#46) Dynamic Matching with Post-allocation Service and its Application to Refugee Resettlement*                                |
 | 15:40      | *(#118) Optimal Design of Default Donations*                                              |
-| 16:30      | **[Poster Session II](../accepted_posters/)**                                             |
+| 16:00      | *Cafe break at patio de la Autonomía Edificio Central*                                    |
+| 16:30      | **Social event:** Red Mexicana de Investigadoras Indígenas & EJUCIAM                      |
+|            | *Social event will be at the patio de la Autonomía Edificio Central*                      |
+| 16:30      | **[Doctoral Consortium II](../../cfp/doctoral-consortium/)**                              |
+|            | *Doctoral Consortium will be at the Sala de Personajes Ilustres*                          |
+|            | **Social event and Doctoral consoritum will run in parallel**                             |
+| 19:00      | **Conference Banquet**        |
+|            | *Conference Banquet will be at the [Sociedad Potosina La Lonja](https://es.wikipedia.org/wiki/Sociedad_Potosina_La_Lonja)*                 |
+|            | *Cultural event Desfile de [Rebozo](https://en.wikipedia.org/wiki/Rebozo) (Parade showcasing Rebozo)*    
+                                             |
+
+
 
 ## October 31, 2024, Thursday
 
 | Time       | Event                          |
 |------------|--------------------------------|
-| 09:00      | **JPAL Session**               |
+| 08:00      | Registration                   |
+| 09:00      | **[JPAL Session](../../jpal/)**               |
+| 10:30      | *Cafe break at the lobby of Rafael Nieto*                                                 |
 | 11:00      | **Session: Learning and Inference**                                                       |
 | 11:00      | *(#179) Statistical Inference Under Constrained Selection Bias*                           |
 | 11:20      | *(#243) Fair Classification with Partial Feedback: An Exploration-Based Data Collection Approach*                                     |
 | 11:40      | *(#317) Learning treatment effects while treating those in need*                          |
 | 12:00      | **Lunch**                      |
-|            | Lunch will take place in Patio de la Autonomía Edificio Central                           |
+|            | *We are not providing food. Please explore the city*                                      |
 | 13:30      | **Session: Theory**            |
 | 13:30      | *(#39) A Causal Framework to Evaluate Racial Bias in Law Enforcement Systems*             |
 | 13:50      | *(#49) Harm Ratio: A Novel and Versatile Fairness Criterion*                              |
@@ -67,8 +94,11 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 15:00      | **Session: Empirical Studies** |
 | 15:00      | *(#18) Effects of Incentivizing Take-up of Post-incarceration Support Services on Recidivism: An RCT with Varying Treatment Dosages*                            |
 | 15:20      | *(#56) Who's in and who's out? A case study of multimodal CLIP-filtering in DataComp*                                     |
-| 15:40      | *(#92) Ending Affirmative Action Harms Diversity Without Improving Academic Merit*      |
+| 15:40      | *(#92) Ending Affirmative Action Harms Diversity Without Improving Academic Merit*        |
+| 16:00      | *Cafe break at patio de la Autonomía Edificio Central*                                    |
 | 16:30      | **Session: LLM II**            |
-| 17:00      | *(#201) Racial Steering by Large Language Models: A Prospective Audit of GPT-4 on Housing Recommendations*                              |
-| 17:20      | *(#204) Auditing Gender Presentation Differences in Text-to-Image Models*                 |
-| 17:40      | *(#248) From Transparency to Accountability and Back: A Discussion of Access and Evidence in AI Auditing*                                     |
+| 16:30      | *(#201) Racial Steering by Large Language Models: A Prospective Audit of GPT-4 on Housing Recommendations*                              |
+| 16:50      | *(#204) Auditing Gender Presentation Differences in Text-to-Image Models*                 |
+| 17:10      | *(#248) From Transparency to Accountability and Back: A Discussion of Access and Evidence in AI Auditing*                                     |
+| 17:30      | **Closing remark**             |
+| 18:00      | Guided tour of Municipal Palace and Centro (Optional)                                     |

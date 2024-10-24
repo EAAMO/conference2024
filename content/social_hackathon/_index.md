@@ -14,6 +14,7 @@ cascade:
 
 ## News
 
+- Presentation of the final solutions will be on Wednesday 30th, 2024 at 10AM. See the [conference schedule](../conference_information/schedule/#october-30-2024-wednesday) for more information.
 - Deadline for submission of your project is **October 2nd, 2024** (Anywhere on Earth). Submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLSdBheuBHIZdHUgx_Fk_lPvx5QhA4wWFqTFmbLzc6xETdB_s4w/viewform?usp=sf_link).
 - Winners will be announced by **October 4th, 2024** by the end of the day. 
 

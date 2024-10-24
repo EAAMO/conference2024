@@ -10,10 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Call for Participation"
-  pageRef = "cfp"
-  weight = 10
+# [[main]]
+#   name = "Call for Participation"
+#   pageRef = "cfp"
+#   weight = 10
 
 [[main]]
   name = "Conference Information"
@@ -21,9 +21,14 @@
   weight = 20
 
 [[main]]
-  name = "Financial Assistance"
-  pageRef = "financial_assistance"
+  name = "Program"
+  pageRef = "conference_information/schedule"
   weight = 30
+
+# [[main]]
+#   name = "Financial Assistance"
+#   pageRef = "financial_assistance"
+#   weight = 30
 
 [[main]]
   name = "Registration"
@@ -33,7 +38,7 @@
 [[main]]
   name = "Social Hackathon"
   pageRef = "social_hackathon"
-  weight = 40
+  weight = 50
 
  [[main]]
   identifier = "search"
