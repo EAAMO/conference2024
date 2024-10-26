@@ -86,7 +86,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | Time       | Event                          |
 |------------|--------------------------------|
 | 08:00      | Registration                   |
-| 09:00      | **[JPAL and EAAMO Panel: Equity and Inclusion of Emerging Indigenous Scientists and Local Leaders](../../jpal/)**                            |
+| 09:00      | **[JPAL and EAAMO Panel: Equity and Inclusion of Emerging Indigenous Scientists and Local Partners](../../jpal/)**                            |
 | 10:30      | *Cafe break at the lobby of Rafael Nieto*                                                 |
 | 11:00      | **Session: Learning and Inference**                                                       |
 | 11:00      | *(#179) Statistical Inference Under Constrained Selection Bias*                           |
