@@ -68,6 +68,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 |            | *Social event will be at the patio de la Autonomía Edificio Central*                      |
 | 16:30      | **[Doctoral Consortium II](../../cfp/doctoral-consortium/)**                              |
 |            | *Doctoral Consortium will be at the Sala de Personajes Ilustres*                          |
+|            | Lightning talks by the Doctoral Consortium students.                                      |
 |            | **The social event and the doctoral consortium will run in parallel.**                             |
 | 19:00      | **Conference Banquet**        |
 |            | *Conference Banquet will be at the [Sociedad Potosina La Lonja](https://es.wikipedia.org/wiki/Sociedad_Potosina_La_Lonja)*                 |
