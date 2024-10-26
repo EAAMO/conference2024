@@ -6,7 +6,11 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-## **Project 1**: JPAL / MD4SG WG / Summer of Science Panel + Community Leader  
+
+## From research to practice in public policies with J-PAL and EJUCIAM: including emerging indigenous scientists' voices and engaging with local partners
+
+
+### **Project 1**: JPAL / MD4SG WG / Summer of Science Panel + Community Leader  
 
 **Goal**: Connect researchers in development economics, algorithms for social good, and public policymakers with emerging researchers from indigenous communities.
 
@@ -17,7 +21,7 @@ layout: "simple"
 
 - **Date and Time**: 31 October, 9:00 a.m.  
 - **Location**: San Luis Potosí, Mexico. Building Auditorio Rafael Nieto.  
-- **Moderator(s)**: Salvador Ruíz Correa, Francisco Marmolejo C., Michelle González A.  
+- **Moderator(s)**: Dr. Salvador Ruíz Correa, Dr. Francisco Marmolejo Cossío, Dra. Michelle González Amador
 
 ---
 
@@ -29,7 +33,7 @@ layout: "simple"
    Incoming Assistant Professor of Computer Science, Boston College; Fellow at Harvard University and the Berkman Klein Center for Internet and Society. Works on applied modeling, algorithms, and AI, focusing on societal challenges, public health, and access to financial services to improve resource accessibility for underserved communities.
 
 3. **Dra. Michelle González Amador**  
-   Consultant and Researcher in Experimental Economics and Data Science, incoming PhD graduate from the United Nations University program on Innovation, Economics, and Governance for Development. Her research focuses on complex socioeconomic systems and human capital investment. Currently, she is a visiting researcher at Stanford University’s Impact Lab on Equitable Access to Education.
+   Recent PhD graduate from the United Nations University program on Innovation Economics, and Governance for Development. Incoming Postdoctoral researcher in Economics at Wageningen University. Her research focuses on complex socioeconomic systems and human capital investment. Currently, she is a visiting researcher at Stanford University’s Impact Lab on Equitable Access to Education.
 
 4. **Flor Ángel Pérez Sánchez**  
    Representative and co-organizer of the EAAMO Working Group "Equity and Justice for Indigenous Communities of the Americas." Graduate student of Tropical Ecology, with a focus on preserving ecosystems native to Mexico.
@@ -70,7 +74,7 @@ Brief introduction of the panelists and the format of the session.
 ### 4. **Future Directions and Opportunities** (30 min)  
 **Topic**: *"Algorithms, Optimization, and Randomized Evaluations"*  
 Discussion of untapped opportunities to leverage synergies.  
-**By Vianney Fernández, Michelle González Amador, Francisco Marmolejo, Flor Ángel, and Leticia Tutuaña**
+**By Vianney Fernández, Dra. Michelle González Amador, Dr. Francisco Marmolejo, Flor Ángel, and Leticia Tutuaña**
 
 - **Guiding Questions**:
   - **Challenges to partnering with local community leaders and governments**:  
