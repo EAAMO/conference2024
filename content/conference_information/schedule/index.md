@@ -26,7 +26,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 11:40      | *(#6) Stakeholder Involvement for Responsible AI Development: A Process Framework*        |
 | 12:00      | **Lunch + [Doctoral Consortium I](../../cfp/doctoral-consortium/)**                       |
 |            | Lunch will take place in Patio de la Autonomía Edificio Central                         |
-| 12:45      | *As a part of the doctoral consoritum, Karoline Pershell will have a talk on Zoom at the Auditorio Rafael Nieto*                                        |
+| 12:45      | *As a part of the doctoral consoritum, Karoline Pershell (former Executive Director of the Association for Women in Mathematics) will have a talk on Zoom at the Auditorio Rafael Nieto*                                        |
 | 13:30      | **[Plenary Talk - Ishtiaque Ahmed: "Fear of Small Data: Ideocide in AI and Data Science"](../invited_speakers/)**                              |
 | 15:00      | **Session: Position Papers**   |
 | 15:00      | *(#75) Bridging Research and Practice Through Conversation: Reflecting on Our Experience*         |
@@ -68,7 +68,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 |            | *Social event will be at the patio de la Autonomía Edificio Central*                      |
 | 16:30      | **[Doctoral Consortium II](../../cfp/doctoral-consortium/)**                              |
 |            | *Doctoral Consortium will be at the Sala de Personajes Ilustres*                          |
-|            | **Social event and Doctoral consoritum will run in parallel**                             |
+|            | **The social event and the doctoral consortium will run in parallel.**                             |
 | 19:00      | **Conference Banquet**        |
 |            | *Conference Banquet will be at the [Sociedad Potosina La Lonja](https://es.wikipedia.org/wiki/Sociedad_Potosina_La_Lonja)*                 |
 |            | *Cultural event Desfile de [Rebozo](https://en.wikipedia.org/wiki/Rebozo) (Parade showcasing Rebozo)*    
