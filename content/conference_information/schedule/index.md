@@ -18,7 +18,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 09:30      | **Session: Search and Ranking**|
 | 09:30      | *(#19) Markovian Search with Socially Aware Constraints*                                |
 | 09:50      | *(#64) Fairness in Ranking under Disparate Uncertainty*                                 |
-| 10:10      | *(#112) Fairness rising from the ranks: HITS and PageRank on Homophilic Networks*                                     |
+| 14:10      | *(#99) Centralized Selection with Preferences in the Presence of Biases*                  |
 | 10:30      | *Cafe break at the lobby of Rafael Nieto*                                    |
 | 11:00      | **Session: LLM I**             |
 | 11:00      | *(#10) The Silicon Ceiling: Auditing GPT’s Race and Gender Biases in Hiring*              |
@@ -93,7 +93,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 13:30      | **Session: Theory**            |
 | 13:30      | *(#39) A Causal Framework to Evaluate Racial Bias in Law Enforcement Systems*             |
 | 13:50      | *(#49) Harm Ratio: A Novel and Versatile Fairness Criterion*                              |
-| 14:10      | *(#99) Centralized Selection with Preferences in the Presence of Biases*                  |
+| 10:10      | *(#112) Fairness rising from the ranks: HITS and PageRank on Homophilic Networks*                                     |
 | 15:00      | **Session: Empirical Studies** |
 | 15:00      | *(#18) Effects of Incentivizing Take-up of Post-incarceration Support Services on Recidivism: An RCT with Varying Treatment Dosages*                            |
 | 15:20      | *(#56) Who's in and who's out? A case study of multimodal CLIP-filtering in DataComp*                                     |
