@@ -35,7 +35,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 16:00      | *Cafe break at patio de la Autonomía Edificio Central*                                    |
 | 16:30      | **[Poster Session I](../accepted_posters/)** at patio de la Autonomía Edificio Centra                                        |
 | 20:00      | **Social Event:** [Callejoneada](https://en.wikipedia.org/wiki/Tuna_(music))              |
-|            | Starts in Plaza Fundadores and ends in Plaza San Francisco                                |
+|            | Starts in Plaza de las Armas and ends in Plaza San Francisco                                |
 |            | People can get drinks/meals at San Francisco/Aranzazu                                     |
 |            | *A callejoneada is a traditional Mexican musical procession and celebration that takes place in the streets and alleyways of cities in Mexico*                                                                           |
 
