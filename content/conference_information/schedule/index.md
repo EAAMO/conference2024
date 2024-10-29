@@ -26,7 +26,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 11:40      | *(#6) Stakeholder Involvement for Responsible AI Development: A Process Framework*        |
 | 12:00      | **Lunch + [Doctoral Consortium I](../../cfp/doctoral-consortium/)**                       |
 |            | Lunch will take place in Patio de la Autonomía Edificio Central                         |
-| 12:45      | *As a part of the doctoral consoritum, Karoline Pershell (former Executive Director of the Association for Women in Mathematics) will have a talk on Zoom at the Auditorio Rafael Nieto*                                        |
+| 12:45      | *EAAMO Doctoral Consortium Talk (open to all, Auditorio Rafael Nieto): Karoline Pershell (former executive director of Association for Women in Mathematics):  Normalizing Unconventional Careers*                                       |
 | 13:30      | **[Plenary Talk - Alessandra Fogli: "Beliefs, Social Context, and Macro Outcomes"](../invited_speakers/)**                              |
 | 15:00      | **Session: Position Papers**   |
 | 15:00      | *(#75) Bridging Research and Practice Through Conversation: Reflecting on Our Experience*         |
