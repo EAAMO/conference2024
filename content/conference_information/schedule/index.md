@@ -48,7 +48,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 08:00      | Registration                  |
 | 09:00      | **EAAMO Bridges: An introduction to EAAMO's semester-long working groups**                |
 |            | Presentation of working groups                                                            |
-|            | *Conversation with Practitioners; Decolonization of STEM Curricula; Inequality: a Theory Working Group; Urban Data Science and Equity; Algorithm, Law and Policy; and Environmental Working Group*                                                         |
+|            | *Conversation with Practitioners; EJUCIAM, Decolonization of STEM Curricula; Inequality: a Theory Working Group; Urban Data Science and Equity; Algorithm, Law and Policy; and Environmental Working Group*                                                         |
 | 09:45      | Social Hackathon Presentations                                                            |
 |            | *Contribution based Budget Allocation for Breast Cancer Mortality Reduction* by Shobhit Jagga                                                                                                    |
 |            | *Team ALMA* by Coby Garcia, Cody Chou, and Joaquin Alvarez                                                                                                  |
