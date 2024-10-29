@@ -18,7 +18,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 09:30      | **Session: Search and Ranking**|
 | 09:30      | *(#19) Markovian Search with Socially Aware Constraints*                                |
 | 09:50      | *(#64) Fairness in Ranking under Disparate Uncertainty*                                 |
-| 14:10      | *(#99) Centralized Selection with Preferences in the Presence of Biases*                  |
+| 11:10      | *(#99) Centralized Selection with Preferences in the Presence of Biases*                  |
 | 10:30      | *Cafe break at the lobby of Rafael Nieto*                                    |
 | 11:00      | **Session: LLM I**             |
 | 11:00      | *(#10) The Silicon Ceiling: Auditing GPT’s Race and Gender Biases in Hiring*              |
