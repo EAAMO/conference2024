@@ -5,8 +5,10 @@ draft: false
 description: "A list of accepted posters. Take a look at the posters and create a list of questions you would like to ask the authors."
 summary: "A list of accepted posters. Take a look at the posters and create a list of questions you would like to ask the authors."
 showTableOfContents: false
-layout: "simple"
 ---
+
+### Accepted Posters
+
 - *Enhancing Privacy in the Early Detection of Sexual Predators Through Federated Learning and Differential Privacy* by Afaf Taik
 - *Congestion Pricing for Efficiency and Equity: Theory and Applications to the San Francisco Bay Area* by Chinmay Maheshwari
 - *Robustness of voting mechanisms to external information in expectation* by Jessie Finocchiaro
@@ -51,3 +53,12 @@ layout: "simple"
 - *Sustainable Investing Strategies with Tradable Assets* by Felipe Verástegui
 - *AI as Author: An Analysis of Short Story Writing* by Sofia Gianuzzi ([pdf](posters/3_sofia_gianuzzi.pdf), [video](https://tinyurl.com/rpas9av3))
 - *[SHERLOCK] Investigation into AI agents and Data Privacy: Using an AI Agent to Identify Individuals and Write Biographies from a Single Photo* by Alina Yu
+
+### Peruvian Summer of Science - Programa de Fomento de Ciencias Indigenas en la Amazonia Peruana
+- *The use of social media to disseminate children’s song in the Ticuna language and to strengthen the cultural identity of the community of Cushillo Cocha in Loreto, Perú* by Dilian Lladira Sinarahua Coello ([pdf](posters/Poster-PFCIAP-DilianSinarahua.pdf), [video](https://tinyurl.com/2x95v34r))
+- *Equitable Provision of Health Services and Medical Care in the CC.NN. Alto Morona Constitution District Oxapampa Province* by Joselin Chinchuya Lázaro ([pdf](posters/Poster-PFCIAP-JoselinChinchuya.pdf), [video](https://tinyurl.com/mvveu8rj))
+- *Tongue Twisters in Awajún to Improve Verbal Fluency Using Artificial Intelligence* by Lardi Kajekui ([pdf](posters/Poster-PFCIAP-LardiKajekui.pdf), [video](https://tinyurl.com/5yhctjfk))
+- *Products from Marañon* by Lizbeth Franco Tutusima ([pdf](posters/Poster-PFCIAP-LizbethFranco.pdf), [video](https://tinyurl.com/4chmmedb))
+- *Perception of Climate Change Impacts on Biodiversity in the Indigenous Community of Paoyhan* by Merllory Ramirez Castro ([pdf](posters/Poster-PFCIAP-MerlloryRamirez.pdf), [video](https://tinyurl.com/53hpby8u))
+- *ShipiEducA: An Interactive App to Revitalize and Enhance Shipibo-Konibo Language Learning* by Metsa Rama-Pilar Rossany Arce Mahua ([pdf](posters/Poster-PFCIAP-PilarArce.pdf), [video](https://tinyurl.com/ystn2zn9))
+- *Barriers and Opportunities for Kakataibo Indigenous Leaders in Their Fight for Land and the Environment* by Yoseli Grau Torres ([pdf](posters/Poster-PFCIAP-YoseliGrau.pdf), [video](https://tinyurl.com/2s4936x8))
