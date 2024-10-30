@@ -58,7 +58,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | 11:00      | **Session: Best papers**      |
 | 12:00      | **Lunch**                     |
 |            | Lunch will take place in Patio de la Autonomía Edificio Central                           |
-| 13:30      | **[Plenary Talk - Ishtiaque Ahmed: "Fear of Small Data: Ideocide in AI and Data Science"](../invited_speakers/)**                               |
+| 13:30      | **[Plenary Talk - Irene Lo: "Mechanisms, Optimization, and Education Policy"](../invited_speakers/)**                               |
 | 15:00      | **Session: Applied Modeling** |
 | 15:00      | *(#34) The Dedicated Docket in U.S. Immigration Courts: An Analysis of Fairness and Efficiency Properties*                                  |
 | 15:20      | *(#46) Dynamic Matching with Post-allocation Service and its Application to Refugee Resettlement*                                |

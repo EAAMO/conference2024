@@ -98,11 +98,11 @@ We welcome participants from all backgrounds, including:
 - **Make an Impact**: Improve the lives of thousands of women across Mexico.
 
 ## Jury
-- Dra. Yelda A. Leal. Directora Centro Institucional de Capacitación y Registro de Cáncer (CICYRC) Centro Médico Nacional S. XXI
 - Dr. José Luis Morán López. Coordinador académico del Centro Nacional de Supercómputo y del Grupo de Ciencia e Ingeniería Computacionales del IPICYT.
 - Dr. Daniel Acosta Díaz de León. Coordinador Estatal del IMSS-Bienestar San Luis Potosí
 - Dra. Jacqueline Calderón. Autonomous University of San Luis Potosí and visiting professor at Boston College
 - PhD Bryan Wilder, Assistant Professor in the Machine Learning Department at Carnegie Mellon University
+- Maestra Jessica Albarrán Ramírez
 
 ## Visualizations
 Just to give you a glimpse of the what is available within the data, please observe the following visualizations and their interpretations.
