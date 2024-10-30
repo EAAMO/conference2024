@@ -25,7 +25,7 @@ showTableOfContents: true
 - *Regretting No-Regret Learning: Discrimination at Equilibrium in a Hiring Market with Symmetric Agents* by Serafina Kamp
 - *TAIME Framework with MUVGs: Transforming AI with Meaningful Engagement with Marginalised, Underrepresented and Vulnerable Groups by* Yesim Kakalic ([pdf](posters/4_yesim_kakalic.pdf), [video](https://tinyurl.com/48s4tsw6))
 - *Decentralized Fair Division* by Joel Miller
-- *Contextualized Poverty Targeting through Multimodal Spatial Data and Machine Learning in Congo* by Woojin Jung ([pdf](posters/1_woojin_jung.pdf))
+- *Contextualized Poverty Targeting through Multimodal Spatial Data and Machine Learning in Congo* by Woojin Jung ([pdf](posters/1_woojin_jung.pdf), [video](https://tinyurl.com/r4tpda6p))
 - *Incentives allocation function for mobile community sensing under budget constraints with smallholder farmers* by Daniel Mutembesa
 - *Understanding explanations: A contextualist approach to explanations on xAI* by Francisco Ortiz
 - *AfriAI-Trends: A Dataset Measuring Google Search Trends in Artificial Intelligence Across African Countries* by Chinasa T. Okolo
