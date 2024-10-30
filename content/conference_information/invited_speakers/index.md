@@ -10,7 +10,7 @@ layout: "simple"
 
 The ACM EAAMO'24 Invited Speakers series features experts from various fields discussing the role of algorithms and optimization in addressing equity and access challenges. These speakers will share research and practical insights on responsible algorithm design and equitable decision-making.
 
-## Ishtiaque Ahmed
+## Irene Lo
 
 {{< chair_image src="profile_photos/irene_lo.jfif" name="Irene Lo" affiliation="Stanford University" link="https://sites.google.com/view/irene-lo" >}}
 
