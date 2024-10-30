@@ -46,7 +46,7 @@ The main conference will be in [Auditorio Rafael Nieto](../venue/). Please note 
 | Time       | Event                         |
 |------------|-------------------------------|
 | 08:00      | Registration                  |
-| 09:00      | **EAAMO Bridges: An introduction to EAAMO's semester-long working groups**                |
+| 09:00      | **[EAAMO Bridges: An introduction to EAAMO's semester-long working groups](https://docs.google.com/presentation/d/1cdTH80xk2qfD--Za8lc4cr9IPsnzzBYngtTG5Isq1BQ/edit#slide=id.g310244da8d3_0_0)**                |
 |            | Presentation of working groups                                                            |
 |            | *Conversation with Practitioners; EJUCIAM, Decolonization of STEM Curricula; Inequality: a Theory Working Group; Urban Data Science and Equity; Algorithm, Law and Policy; and Environmental Working Group*                                                         |
 | 09:45      | Social Hackathon Presentations                                                            |
